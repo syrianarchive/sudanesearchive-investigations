@@ -1,0 +1,9 @@
+# Logs
+*.log
+
+# OSX
+.DS_Store
+
+# Linux
+.directory
+*~
