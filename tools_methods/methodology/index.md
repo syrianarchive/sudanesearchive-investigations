@@ -1,7 +1,7 @@
 ---
 layout: contentwithsiblings.html
 title: Research Methodology
-date: 2017-11-27
+date: 
 desc: Open Source Tools and Methods for Open Source Investigations - Digital Evidence Workflow
 image: /assets/technology/methods-workflow.png
 ---

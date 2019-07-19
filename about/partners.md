@@ -20,7 +20,7 @@ We work with groups in three ways:
 
 If you know of organisations, media offices, activists and others that could be interested then please direct them to our website and send them our email. We are also keen to create partnerships with human rights groups, investigators, researchers, lawyers, journalists, historians and political artists who could use the documentation in issues related to advocacy, reporting, memorial and investigation of war crimes and crimes against humanity.
 
-**Contact us Please contact us on info [at] sudanesearchive[dot] org.**
+**Contact us: Please contact us on info [at] sudanesearchive[dot] org.**
 
 The Sudan Archives has partnered or collaborated with various organisations and non-profits working in the human rights and citizen journalist sectors, as well as international institutions and universities who share our mission. These include:
 
