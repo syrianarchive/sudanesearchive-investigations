@@ -1,9 +1,10 @@
 ---
 layout: homepage.html
 title: Sudanese Archive
-date
-desc: Curating visual documentation for justice and human rights
+date: 2019-07-21
+desc: Curating visual documentation for justice, human rights and journalism
 image: /assets/about/sudan03.jpg
+published: true
 ---
 
 Curating visual documentation for justice, human rights and journalism.
