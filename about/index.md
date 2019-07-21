@@ -2,7 +2,7 @@
 layout: contentwithsiblings.html
 title: About
 desc: "Mission, vision, and workflow"
-image: "/assets/about/sudan8.jpg"
+image: "/assets/Aboutpage.jpg"
 ---
 
 **The Sudanese Archive** is a collaborative project designed to leverage the brave work individuals and organisations are doing in Sudan to hold the powerful accountable. We are part of a vibrant community of global and Sudanese human rights and media organisations doing this work. By curating and streamlining our efforts we can create stronger and more useful human rights data.
