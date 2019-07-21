@@ -1,7 +1,7 @@
 ---
 layout: contentwithsiblings.html
 title: About
-desc: "Mission, vision, and workflow"
+desc: "Mission, context, and workflow"
 image: "/assets/Aboutpage.jpg"
 ---
 
@@ -17,7 +17,7 @@ We focus on the following types of incidents:
 
 Although the Sudanese Archive grew out of this historical uprising, we are also working with partners in conflict areas and affected communities to preserve and verify their collection of human rights related documentation over the last two decades.
 
-## Context 
+## Context
 
 Sudan is in the midst of dramatic change driven by an unprecedented wave of protests and civic engagement. After months of protest, president Omar al-Bashir fell and replaced by his own army generals. It took many more months of protests to establish a power sharing agreement between the transitional military council and the forces of freedom and change. During this time the military launched numerous violent crackdowns on the protestors.
 
@@ -59,6 +59,6 @@ Additional value is added to the material by recording as much metadata and chai
 
 #### Fourth: Accessibility and raising awareness
 
-Sudan Archives endeavours make the material **open, accessible and fully searchable** to supply factual information for medias, promote discussions, debate and raise awareness on issues related to human rights, justice, equality, and accountability in Sudan. 
+Sudan Archives endeavours make the material **open, accessible and fully searchable** to supply factual information for medias, promote discussions, debate and raise awareness on issues related to human rights, justice, equality, and accountability in Sudan.
 
 Contact us Please contact us on info [at] sudanesearchive[dot] org.

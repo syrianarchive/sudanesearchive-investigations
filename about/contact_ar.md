@@ -11,14 +11,15 @@ image: "/assets/sudan02.jpg"
  نحن نبحث باستمرار عن طرق جديدة للتعاون مع منظمات حقوق الإنسان الأخرى، المكاتب الإعلامية المحليّة، النشطاء، الباحثين، والمحقّقين.
 
  [info@sudanesearchive.org](mailto:info@sudanesearchive.org)
- Fingerprint: 8468 60C2 1A97 E70E 520D 8B83 0AF7 BA93 CD64 500E
+Fingerprint: ABE6 7D11 5319 96FB 32D3 951D 56DE BAEA 990E 2BBB
 
- ### صحافة
+ #### صحافة
 
  [info@sudanesearchive.org](mailto:info@sudanesearchive.org)
- Fingerprint: 8468 60C2 1A97 E70E 520D 8B83 0AF7 BA93 CD64 500E
+Fingerprint: ABE6 7D11 5319 96FB 32D3 951D 56DE BAEA 990E 2BBB
 
 
  #### موقع
 
  [info@sudanesearchive.org](mailto:info@sudanesearchive.org)
+Fingerprint: ABE6 7D11 5319 96FB 32D3 951D 56DE BAEA 990E 2BBB
