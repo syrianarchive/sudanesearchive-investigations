@@ -1,7 +1,7 @@
 ---
 layout: contentwithsiblings.html
 title: Copyright
-date: 2017-03-03
+date: 2019-07-22
 desc:
 image: "/assets/logos/logo.png"
 drafts: true

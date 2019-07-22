@@ -1,7 +1,7 @@
 ---
 layout: contentwithsiblings.html
 title: "حقوق النشر"
-date: 2017-03-03
+date: 2019-07-22
 desc:
 image: "/assets/logos/logo.png"
 drafts: true
@@ -11,5 +11,3 @@ drafts: true
 
 إذا قمت باستخدام أو تعديل أي من المواد على الأرشيف فالرجاء التواصل معنا على البريد الالكتروني التالي:
 info [at] sudanesearchive [dot] org
-
-
