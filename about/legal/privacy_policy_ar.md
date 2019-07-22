@@ -2,7 +2,7 @@
 layout: contentwithsiblings.html
 title: سياسية الخصوصية
 desc: null
-image: /assets/about/about2.jpg
+image: "/assets/logos/logo.png"
 drafts: true
 ---
 

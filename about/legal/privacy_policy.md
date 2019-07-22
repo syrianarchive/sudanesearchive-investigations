@@ -3,7 +3,7 @@ layout: contentwithsiblings.html
 title: Privacy Policy
 date: 2017-03-03
 desc:
-image: "/assets/about/about2.jpg"
+image: "/assets/logos/logo.png"
 drafts: true
 ---
 A visit to our website or any website can result in the storage on our server of information about the access (date, time, user location, page accessed, device accesses, fingerprint information of the browser used). We do not keep logs or analyse this information or other personal data (eg, name, address or email address). Any forwarding of the data to third parties without the express consent of the user shall not take place.

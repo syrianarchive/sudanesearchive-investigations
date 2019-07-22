@@ -1,7 +1,7 @@
 ---
 layout: contentwithsiblings.html
 title: "الوضع القانوني"
-image: "/assets/about/about2.jpg"
+image: "/assets/legal.jpg"
 drafts: true
 ---
 
