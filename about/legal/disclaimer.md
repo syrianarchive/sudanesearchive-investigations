@@ -1,7 +1,7 @@
 ---
 layout: contentwithsiblings.html
 title: Disclaimer
-date: 2017-03-03
+date: 2019-07-22
 desc:
 image: "/assets/about/about2.jpg"
 drafts: true
