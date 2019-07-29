@@ -7,21 +7,23 @@ image: /assets/mapping-1.png
 socialMediaImage: /assets/mapping-1.png
 drafts: true
 ---
-The Sudanese Archive has logged reports and media files of protests in 28 cities across Sudan on June 30. The investigation team was able to verify media portraying violence in six of those cities: Al Fashir, Al Qadarif, Atbara, Khartoum, Khartoum North (Al-Kahrtoum Bahry), and Omdurman. The Sudanese Archive also gathered media purported to depict violence in two other cities - El Obeid and Kassala - remaining to be verified. In two additional cities, Kosti and Port Sudan, there are reports of violence from credible sources on the ground, although our investigative team has not yet obtained media depicting those reports that can be verified.
+جمع الأرشيف السوداني تقارير وملفات إعلامية عن الاحتجاجات التي اندلعت في 28 مدينة في جميع أنحاء السودان في 30 يونيو. وتمكن فريق الأرشيف السوداني من التحقق من الوسائط الاعلامية التي وثقت أحداث العنف في ست من تلك المدن و هي : الفاشر ، و القضارف، وعطبرة، والخرطوم ، والخرطوم بحري ، وأم درمان. كما تحصل الأرشيف السوداني مواد اعلامية تزعم تصوير هذه الاحداث في مدينتي  الأبيض و كسلا. بالاضافة لذلك، هنالك تقارير من مصادر محلية موثوقة عن أعمال عنف في مدينتي كوستي وبورتسودان ، ولكن فريق التحقيق لدينا لم يتحصل بعد على الوسائط التي يمكن استخدامها للتحقق من تلك التقارير.
 
 <iframe height="550" src="https://public.tableau.com/views/SudaneseArchive-MapofJune30protests/Forembedding?:embed=y&:display_count=yes&:origin=viz_share_link" width="780"></iframe>
 
 [View full visualisation](https://public.tableau.com/views/SudaneseArchive-MapofJune30protests/Forembedding?:embed=y&:display_count=yes&:origin=viz_share_link)
 
-# Reports of injuries and deaths
 
-More than 148 people were injured and 8 were killed, according to the [Central Committee of Sudan Doctors](https://www.facebook.com/Sudandoctorscommittee/) (CCSD).
+# تقارير الإصابات والوفيات
+
+تشير تقارير اللجنة المركزية لأطباء السودان الى وفاة 8 أشخاص و وإصابة أكثر من 148 شخص.
 
 | City   | Reported Injuries   | Reported Deaths   |
 | ------------- |:-------------:| -----:|
 | Al Fashir      | 23 (reported on July 1st, other minor injury cases not counted) | |
 | Al Qadarif      | 13 (reported on  June 30th) | |
 | Atbara | | 1 (reported on  June 30th) |
+|
 | El Obeid | 7 (reported on June 30th) | |
 | Kassala | 8 (reported on June 30th) | |
 | Khartoum | 4 (reported on June 30th) | |
@@ -32,6 +34,7 @@ More than 148 people were injured and 8 were killed, according to the [Central C
 # Gathering data and media of protests held
 
 The Sudanese Archive has collected thousands of videos indicating protests and subsequent violence by monitoring social media and working with contacts in Sudan to archive material, as well as identifying credible sources regularly posting content. The Archive monitoring team also incorporates public statements from credible associations and political figures in the database.
+
 
 # Verifying the media files
 
