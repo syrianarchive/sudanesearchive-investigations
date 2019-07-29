@@ -3,7 +3,7 @@ layout: contentwithsiblings.html
 title: Disclaimer
 date: 2019-07-22
 desc:
-image: "/assets/about/about2.jpg"
+image: "/assets/logos/logo.png"
 drafts: true
 ---
 

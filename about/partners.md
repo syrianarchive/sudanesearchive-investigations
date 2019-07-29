@@ -1,7 +1,7 @@
 ---
 layout: contentwithsiblings.html
 title: Partners
-image: "/assets/about/partners.png"
+image: "/assets/partners.jpg"
 ---
 
 The Sudan Archives is fully independent project committed to creating a sustainable platform for safekeeping and distributing critical information related to human rights and media. We need your support to help keep this information secure and free. If you or your organisation is interesting in supporting this mission please reach out to us at: info@sudanesearchive.org

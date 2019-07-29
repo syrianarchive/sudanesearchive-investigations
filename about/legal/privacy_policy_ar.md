@@ -1,9 +1,8 @@
 ---
 layout: contentwithsiblings.html
 title: سياسية الخصوصية
+image: "/assets/logos/logo.png"
 date: 2019-07-22
-desc:
-image: /assets/about/about2.jpg
 drafts: true
 ---
 
