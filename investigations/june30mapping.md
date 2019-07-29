@@ -25,9 +25,9 @@ More than 148 people were injured and 8 were killed, according to the [Central C
 | El Obeid | 7 (reported on June 30th) | |
 | Kassala | 8 (reported on June 30th) | |
 | Khartoum | 4 (reported on June 30th) | |
-| Khartoum North | 45 (reported on June 30th) | |
+| Khartoum North - (Al-Kahrtoum Bahry) | 45 (reported on June 30th) | |
 | Kosti | 4 (reported on July 1st) | |
-| Omdurman | 44 (reported on  June 30th) | |
+| Omdurman | 44 (reported on  June 30th) | 7 (4 reported on  June 30th, 3 reported on July 1st) |
 
 # Gathering data and media of protests held
 
