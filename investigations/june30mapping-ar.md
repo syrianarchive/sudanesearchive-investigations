@@ -1,54 +1,51 @@
 ---
 layout: investigation.html
-title: "Mapping protests on June 30 in Sudan"
-desc: "Map of the protests held on June 30 in Sudan"
+title: "رصد احتجاجات 30 يونيو 2019 في السودان"
+desc: "خريطة الاحتجاجات التي وقعت في 30 يونيو 2019 في السودان"
 date: 2019-07-29
 image: /assets/mapping-1.png
 socialMediaImage: /assets/mapping-1.png
 drafts: true
 ---
-جمع الأرشيف السوداني تقارير وملفات إعلامية عن الاحتجاجات التي اندلعت في 28 مدينة في جميع أنحاء السودان في 30 يونيو. وتمكن فريق الأرشيف السوداني من التحقق من الوسائط الاعلامية التي وثقت أحداث العنف في ست من تلك المدن و هي : الفاشر ، و القضارف، وعطبرة، والخرطوم ، والخرطوم بحري ، وأم درمان. كما تحصل الأرشيف السوداني مواد اعلامية تزعم تصوير هذه الاحداث في مدينتي  الأبيض و كسلا. بالاضافة لذلك، هنالك تقارير من مصادر محلية موثوقة عن أعمال عنف في مدينتي كوستي وبورتسودان ، ولكن فريق التحقيق لدينا لم يتحصل بعد على الوسائط التي يمكن استخدامها للتحقق من تلك التقارير.
+
+جمع الأرشيف السوداني تقارير وملفات إعلامية عن الاحتجاجات التي اندلعت في 28 مدينة في جميع أنحاء السودان في 30 يونيو 2019. وتمكن فريق الأرشيف السوداني من التحقق من الوسائط الاعلامية التي وثقت أحداث العنف في ست من تلك المدن و هي : الفاشر ، و القضارف، وعطبرة، والخرطوم ، والخرطوم بحري ، وأم درمان. كما تحصل الأرشيف السوداني مواد اعلامية تزعم تصوير هذه الاحداث في مدينتي  الأبيض و كسلا. بالاضافة لذلك، هنالك تقارير من مصادر محلية موثوقة عن أعمال عنف في مدينتي كوستي وبورتسودان ، ولكن فريق التحقيق لدينا لم يتحصل بعد على المواد والمعلومات اللازمة التي يمكن استخدامها للتحقق من تلك التقارير.
 
 <iframe height="550" src="https://public.tableau.com/views/SudaneseArchive-MapofJune30protests/Forembedding?:embed=y&:display_count=yes&:origin=viz_share_link" width="780"></iframe>
 
 [View full visualisation](https://public.tableau.com/views/SudaneseArchive-MapofJune30protests/Forembedding?:embed=y&:display_count=yes&:origin=viz_share_link)
 
-
 # تقارير الإصابات والوفيات
 
 تشير تقارير اللجنة المركزية لأطباء السودان الى وفاة 8 أشخاص و وإصابة أكثر من 148 شخص.
 
-| City   | Reported Injuries   | Reported Deaths   |
+| المدينة   | الإصابات المسجلة   | الوفيات المسجلة   |
 | ------------- |:-------------:| -----:|
-| Al Fashir      | 23 (reported on July 1st, other minor injury cases not counted) | |
-| Al Qadarif      | 13 (reported on  June 30th) | |
-| Atbara | | 1 (reported on  June 30th) |
-|
-| El Obeid | 7 (reported on June 30th) | |
-| Kassala | 8 (reported on June 30th) | |
-| Khartoum | 4 (reported on June 30th) | |
-| Khartoum North | 45 (reported on June 30th) | |
-| Kosti | 4 (reported on July 1st) | |
-| Omdurman | 44 (reported on  June 30th) | |
+| الفاشر     | 23 (سجلت في 1 يوليو، لم يتم احتساب الإصابات الطفيفة) | |
+| القضارف     | 13 (سجلت في 30 يونيو) |
+| عطبرة | | 1 (سجلت في 30 يونيو) |
+| الأبيض | 7 (سجلت في 30 يونيو) | |
+| كسلا | 8 (سجلت في 30 يونيو) | |
+| الخرطوم | 4 (سجلت في 30 يونيو) | |
+| الخرطوم - بحري  | 4545 (سجلت في 30 يونيو) | |
+| كوستي | 4 (سجلت في 1 يوليو) | |
+| أم درمان | 44 (سجلت في 30 يونيو) | 7 (4 سجلت في 30 يونيو، و 3 حالات في 1 يوليو) |
 
-# Gathering data and media of protests held
+# منهجية جمع البيانات والتحقق منها
 
-The Sudanese Archive has collected thousands of videos indicating protests and subsequent violence by monitoring social media and working with contacts in Sudan to archive material, as well as identifying credible sources regularly posting content. The Archive monitoring team also incorporates public statements from credible associations and political figures in the database.
+## التحصل على معلومات ووسائط حول الاحتجاجات
+
+قام الأرشيف السوداني بجمع الآلاف من مقاطع الفيديو التي توثق الاحتجاجات التي وقعت وماتلاها من أعمال عنف  وذلك من خلال مراقبة وسائل التواصل الاجتماعي والعمل مع جهات الاتصال في السودان لأرشفة المواد و تحديد مصادر موثوقة التي تنشر المحتوى بانتظام. ويقوم فريق مراقبة الأرشيف بتضمين  معلومات من جمعيات وشخصيات سياسية ذات مصداقية في قاعدة البيانات.
 
 
-# Verifying the media files
+## التحقق من ملفات الوسائط
 
-The Sudanese Archive collaborates with the Syrian Archive and the Berkeley Human Rights Center for support with verification.
-Each verified video went through basic geolocation to ensure it was shot in Sudan. The Sudanese Archive has also identified the city and location coordinates. This was done by comparing reference points (e.g. buildings, signposts, mountains ranges) with Google Earth satellite imagery.
-The Sudanese Archive also verified the date the media was posted and likely date of its filming, by cross referencing the publishing date on social media platforms (ex. Twitter and Facebook) with dates from reports concerning the same incident and research of the shadows in the videos.
-The Syrian Archive also works with local journalists, human rights activists, and staff of medical facilities.  The Archive investigation team also cross-references the data with that of credible associations and media agencies.
+يتعاون الإرشيف السوداني مع كلا من الإرشيف السوري و مركز بيركلي لحقوق الإنسان لدعم عملية التحقق .تم التحقق من كل مقطع فيديو عبر استخدام وسائل الموقع الجغرافي (Geolocation) للتأكد من أن تم تصويره في السودان. كما يحدد الأرشيف السوداني إحداثيات المدن والمواقع عن طريق مقارنة النقاط المرجعية (مثل المباني ، لوحات ارشادية، سلاسل الجبال) مع صور الأقمار الصناعية في Google Earth. يتحقق الأرشيف السوداني أيضًا من تاريخ نشر الوسائط والتاريخ المحتمل لتصويرها ، وذلك بالرجوع إلى تاريخ النشر على منصات التواصل الاجتماعي مثل Twitter و Facebook ومقارنتها مع تواريخ التقارير المنشورة والتي تتعلق بالحادث نفسه وإجراء بحوث الظلال (Shadow Search).
+يعمل الأرشيف السوداني أيضًا مع مجموعة من الصحفيين المحليين ونشطاء حقوق الإنسان وموظفي المؤسسات الطبية. يقوم فريق التحقيق في الإرشيف أيضًا بمراجعة البيانات مع الجمعيات الموثوق بها والوكالات الإعلامية.
 
-# Submitting videos
+# مشاركة مقاطع الفيديو
 
-In order to provide the most complete and accurate information, we are always looking for new evidence to collect and add to our database. If you would like to send us a video which is not already in our data, please reach us at info@sudanesearchive.org.
+من أجل توفير معلومات أكثر دقة و تكاملا ، نسعى دائما لجمع و تضمين أدلة جديدة إلى قاعدة البيانات. إذا كنت ترغب ي في إرسال مقطع فيديو الرجاء الاتصال بنا على info@sudanesearchive.org
 
-# Errors and corrections
+# الأخطاء والتصحيحات
 
-We strive for accuracy and transparency of process in our reporting and presentation. That said, we do recognise that the information publicly available for particular events can at times be limited. Our video datasets are therefore organically maintained, and represent our best present understanding of alleged incidents.
-
-If you have new information about a particular event; if you find an error in our work - or if you have concerns about the way we are reporting our data - please do engage with us. You can reach us at info@sudanesearchive.org.
+يركز فريق الأرشيف السوداني بشدة على أهمية الشفافية والدقة عند بناء قاعدة بيانات وإعداد تقارير. نرجو إرسال أي تصحيح أو معلومات إضافية على إيميل الفريق و سنقوم بالتعديل المباشر على أي تقرير أو فيديو خاطئ info@sudanesearchive.org
