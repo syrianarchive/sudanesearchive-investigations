@@ -1,16 +1,16 @@
 ---
-layout: investigationshome.html
+layout: investigation.html
 title: "Violence against protesters in Omdurman on June 30"
 desc: "8 dead, more than 50 injured as a result of violence against protesters in Omdurman on June 30, 2019"
-date:2019-08-15
-image: assets/investigations/omdurman/image19.png
+date: 2019-08-15
+image: /assets/investigations/omdurman/image19.png
 ---
 
--   Location: Omdurman
--   Date: 30 June 2019
--   Reported killed: 8
--   Reported injured: 50+
--   Potentially responsible: Transitional Military Council (TMC)
+- Location: Omdurman
+- Date: 30 June 2019
+- Reported killed: 8
+- Reported injured: 50+
+- Potentially responsible: Transitional Military Council (TMC)
 
 This is an investigation produced by the Sudanese Archive in collaboration with the Berkeley Human Rights Investigation Lab. It uses open-source tools and techniques to verify evidence gathered from videos, images, and/or reports published online. The focus of this report is about violence against protesters in Khartoum’s twin city of Omdurman on June 30, 2019.
 
@@ -22,25 +22,25 @@ On June 3, 2019, the paramilitary Rapid Support Forces  [(RSF](https://www.aljaz
 
 According to [Netblocks](https://netblocks.org/reports/sudan-internet-recovery-after-month-long-shutdown-98aZpOAo), mobile connectivity was severely interrupted following June 3rd. In a press conference, the TMC [spokesperson](https://www.youtube.com/watch?v=3EBN-AMwhFo) admitted that the council ordered the internet block for security reasons. The internet block hindered communication between the SPA and the general public. Furthermore, it disrupted the SPA connection with neighborhood committee leaders and activists. This increased a general sense of fear, as the news was not circulating as easily as previously.
 
-![](assets/investigations/omdurman/image17.jpg)
+![](/assets/investigations/omdurman/image17.jpg)
 
 A chart showing internet access in Sudan - [Source](https://netblocks.org/reports/sudan-internet-recovery-after-month-long-shutdown-98aZpOAo)
 
 Over the next three weeks, the  SPA worked toward restoring demonstrations and reorganizing activists on the ground with the help of [grassroots resistance committees](https://www.aljazeera.com/news/2019/05/sudan-neighbourhoods-mobilised-al-bashir-190506182950504.html) through what they called the “[Revolutionary Escalation Schedule](https://www.sudaneseprofessionals.org/en/fdfc-revolutionary-escalation-schedule/)”. Their efforts included announcing night demonstration schedules and conducting awareness sessions in neighborhoods and villages across Sudan.
 
-![](assets/investigations/omdurman/image2.png)
+![](/assets/investigations/omdurman/image2.png)
 
 A flyer advertising the 30 June march featuring the logos of the SPA and the Resistance Committee of Haj-Yousif
 
 Source: [SPA FB page](https://scontent.ftxl3-2.fna.fbcdn.net/v/t1.0-9/65211850_2808386042521398_300473953523073024_o.jpg?_nc_cat=107&_nc_oc=AQm3r-LcvqLDnH29bFrQ1EkHjO0bt_G7PTJps7mm8PPmpxek_-TkX6vDmhrEcke99n0Zh7osXtxFMeNsx--fqUoY&_nc_ht=scontent.ftxl3-2.fna&oh=f5354d13ee0267405a4ca31d8fdd73fb&oe=5DD279B1)
 
-![](assets/investigations/omdurman/image28.png)
+![](/assets/investigations/omdurman/image28.png)
 
-![](assets/investigations/omdurman/image27.png)
+![](/assets/investigations/omdurman/image27.png)
 
-![](assets/investigations/omdurman/image21.png)
+![](/assets/investigations/omdurman/image21.png)
 
-![](assets/investigations/omdurman/image12.png)
+![](/assets/investigations/omdurman/image12.png)
 
 SPA tweets detailing the “Revolutionary Escalation Schedule”
 
@@ -58,33 +58,33 @@ Marches across the city however were met with severe level of repression. This i
 
 ###The ‘One million’ March
 
-![](assets/investigations/omdurman/image4.png)
+![](/assets/investigations/omdurman/image4.png)
 
 Satellite image of the location of the Omdurman protests and the former sit-in site in Khartoum
 
 According to the schedule posted by SPA a few days before, protestors in different cities in Sudan were to gather at specific points at 13:00, and march to the homes of some selected victims who were killed during the revolution. One of the aims of the protest, called the ‘One Million March,’ was to pay tribute in their memories and support their grieving families. The SPA announced a [plan](https://www.facebook.com/SdnProAssociation/posts/2812341875459148) specifying venues of assembly and routes leading to four major areas of the greater capital Khartoum ([Khartoum](https://goo.gl/maps/JBx4UfkjZXFjrjEC7), [Bahry](https://goo.gl/maps/qBoQs3xpb4ci4ydX9), [Omdurman](https://goo.gl/maps/YBGn899Ucvhu6N4aA) and [Sharq-Al Neel](https://goo.gl/maps/XsGvznFVxKRAh5VR6)). As for Omdurman, five assembly points and routes were identified for protesters, according to the following [post](https://www.facebook.com/SdnProAssociation/posts/2812292685464067?__tn__=K-R).
 
-![](assets/investigations/omdurman/image3.jpg)
+![](/assets/investigations/omdurman/image3.jpg)
 
 Instead of visiting victims’ homes as announced in the original plan, protesters from these points and other locations in Khartoum instead moved towards the [Presidential Palace](https://goo.gl/maps/18hV2hQwUNJiERBq8), a destination of earlier marches during the course of the uprising. Protesters in Omdurman meanwhile, marched  toward the White Nile Bridge, which leads to the other part of the capital Khartoum where the Presidential Palace is located. Below is the geolocation.
 
-![](assets/investigations/omdurman/image15.png)
+![](/assets/investigations/omdurman/image15.png)
 
-![](assets/investigations/omdurman/image16.png)
+![](/assets/investigations/omdurman/image16.png)
 
 One  [video](https://www.facebook.com/muntasir.abdelbagi/videos/pcb.2553484961330925/2553482327997855/?type=3&theater)  shows protesters marching along  [Al Morada Street](https://goo.gl/maps/3tyth3SuXsdSnQgh8), between the Palace of Youth and Culture and the National Parliament of Sudan, at the edge of the White Nile bridge. It was posted at 7:47 PM Sudan time on June 30.
 
-![](assets/investigations/omdurman/image22.png)
+![](/assets/investigations/omdurman/image22.png)
 
 Screenshot of posted video showing protesters on al Morada Street, posted on Sunday, June 30, at 7:47 PM Sudan time. (Screenshot shows San Francisco time, which was then converted.)
 
-![](assets/investigations/omdurman/image19.png)
+![](/assets/investigations/omdurman/image19.png)
 
 Satellite imagery close-up of key locations in which protests and violence took place in Omdurman on June 30, 2019.
 
 As protesters approached the White Nile Bridge, they were blocked from crossing. Another [video](https://www.facebook.com/m7moudko/videos/2521326007928769/) posted July 1, of the same intersection and view of the bridge, shows protesters marching toward the bridge and clustering at the entrance.
 
-![](assets/investigations/omdurman/image7.jpg)
+![](/assets/investigations/omdurman/image7.jpg)
 
 Markers identified in a screenshot of a verified video match the location of the ‘One Million March’ in Omdurman on June 30.
 
@@ -92,9 +92,9 @@ Around 6 minutes into the video, three green vehicles and two white pick-up truc
 
 An analysis of shadows in this video by the Sudanese Archive using the [shadow calculator tool](http://suncalc.net/#/51.508,-0.125,2/2019.08.07/18:14) indicates that the video was likely taken around 3:30 p.m., and the weather matches that of June 30.
 
-![](assets/investigations/omdurman/image8.png)
+![](/assets/investigations/omdurman/image8.png)
 
-![](assets/investigations/omdurman/image25.png)
+![](/assets/investigations/omdurman/image25.png)
 
 Screenshot from SunCalc tool showing the shadow on June 30th at 03:30 pm Khartoum Time
 
@@ -102,31 +102,31 @@ This video also corresponds to other accounts of the timeline of protests and vi
 
 Another [video](https://www.facebook.com/abdalgader.abdall/videos/2897595783798199/)  shot from directly alongside White Nile Bridge shows protesters fleeing amid the sounds of gunfire, taking shelter behind trees and jumping over fences to get off the road.
 
-![](assets/investigations/omdurman/image6.jpg)
+![](/assets/investigations/omdurman/image6.jpg)
 
 Screenshots from a video matching [the location of White Nile Bridge](https://www.google.com/maps/place/15%C2%B036'58.0%22N+32%C2%B029'15.1%22E/@15.6161196,32.4868422,293m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d15.6161175!4d32.4875216?shorturl=1) along Al Morada Street, where protesters had gathered on June 30.
 
 A [video](https://www.facebook.com/midoeoker/videos/10157552480435680/) posted on June 30 at 9:33 PM shows protesters fleeing tear gas on Al Morada Street, in the direction of the Military Hospital.
 
-![](assets/investigations/omdurman/image13.jpg)
+![](/assets/investigations/omdurman/image13.jpg)
 
 Screenshots of a video likely filmed from in front of the Palace of Youth and Children (PYC), showing protesters fleeing from tear gas also match [the verified protest location](https://www.google.com/maps/place/15%C2%B036'59.4%22N+32%C2%B029'06.5%22E/@15.6165,32.4838193,680m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d15.6165116!4d32.4851354) in front of the White Nile Bridge.
 
 Another [video](https://www.facebook.com/watch/?v=388836255081838) shows protesters running from the tear gas in the same location.
 
-![](assets/investigations/omdurman/image5.jpg)
+![](/assets/investigations/omdurman/image5.jpg)
 
 Screenshot of a video liked filmed on Al Morada Street, showing protesters fleeing from tear gas also match the satellite imagery of the [protest location in front of the White Nile Bridge](https://www.google.com/maps/place/15%C2%B036'59.4%22N+32%C2%B029'06.5%22E/@15.6165,32.4838193,680m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d15.6165116!4d32.4851354).
 
 Additional videos and photos posted online also showed armed RSF officers on top of the Palace of Youth and Children (PYC). During a news conference, the deputy head of the TMC Muhammad Hamdan Daglu, also known as Hemedti, said that there were snipers on the rooftop of the PYC and that three RSF members, as well as about five or six civilians were shot. He said the shooting was taking place as he was addressing a [public](https://www.youtube.com/watch?v=WuUeEwFDcyc&t=216s&fbclid=IwAR1eViMKocEqs6BjqzqChkAOmTSMaIS2uU92Hk53C99mA_fB7kADDN7wses) gathering at Sharq al-Neel district in eastern Khartoum. The video of his comments was uploaded on June 30 at 4:35 PM according to an Amnesty International video verification tool.
 
-![](assets/investigations/omdurman/image20.png)
+![](/assets/investigations/omdurman/image20.png)
 
 A screenshot of a tool used to verify the time of upload of a video in which Hemedti made public comments
 
 In one  [Tweet](https://twitter.com/Monzirelnino/status/1146698855183978496) published a few days after the June 30 incident, the poster shared a video with a post referring to  “Janjaweed snipers” in the palace building next to the AL-Silah al-Tibi Hospital in Omdurman on June 30th.
 
-![](assets/investigations/omdurman/image11.png)
+![](/assets/investigations/omdurman/image11.png)
 
 ## When did it happen?
 
@@ -134,7 +134,7 @@ Social media posts, news networks and activist pages started reporting the prote
 
 To verify the time and location of the published videos and images, Sudanese Archive conducted an analysis of the weather and shadows in identified media. The weather search was conducted using the [WolframAlpha tool](https://www.wolframalpha.com/) for weather patterns on June 30, 2019. The weather specified by the tool is consistent with the weather in videos and photos posted via social media related to the incident, reinforcing what has been reported. Below is a screenshot of the WolframAlpha analysis:
 
-![](assets/investigations/omdurman/image23.png)
+![](/assets/investigations/omdurman/image23.png)
 
 ## Where did it happen?
 
@@ -144,33 +144,33 @@ To determine the exact targeted location, Sudanese Archive identified the landma
 
 In several of the verified videos those landmarks included the National Parliament of Sudan, billboards and a road divider.
 
-![](assets/investigations/omdurman/image10.png)
+![](/assets/investigations/omdurman/image10.png)
 
 A screenshot of a video showing the protests, with the National Parliament of Sudan (pink), large billboards (green), and a road divider (blue).
 
-![](assets/investigations/omdurman/image9.png)
+![](/assets/investigations/omdurman/image9.png)
 
 Satellite imagery of Omdurman, with locations of the National Parliament of Sudan (pink), large billboards (green), and a road divider (blue).
 
 Other landmarks include more billboards, the entrance of the White Nile Bridge, and the Corinthia Hotel across the river in Khartoum.
 
-![](assets/investigations/omdurman/image24.png)
+![](/assets/investigations/omdurman/image24.png)
 
 A screenshot of a video showing [the protests](https://www.google.com/maps/place/15%C2%B036'59.4%22N+32%C2%B029'06.5%22E/@15.6165149,32.4838997,532m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d15.6165116!4d32.4851354?shorturl=1), with billboards (yellow), the entrance of the White Nile Bridge (red), and the Corinthia Hotel (orange).
 
-![](assets/investigations/omdurman/image1.png)
+![](/assets/investigations/omdurman/image1.png)
 
 Satellite imagery indicating the location of the billboards (yellow) and the entrance of the White Nile Bridge (red).
 
-![](assets/investigations/omdurman/image14.png)
+![](/assets/investigations/omdurman/image14.png)
 
 Image of the Corinthia Hotel in Khartoum.
 
-![](assets/investigations/omdurman/image26.png)
+![](/assets/investigations/omdurman/image26.png)
 
 Satellite imagery showing the location of the Corinthia Hotel in Khartoum.
 
-![](assets/investigations/omdurman/image18.png)
+![](/assets/investigations/omdurman/image18.png)
 
 Satellite imagery showing the location of the Corinthia hotel compared with the Omdurman protest site.
 

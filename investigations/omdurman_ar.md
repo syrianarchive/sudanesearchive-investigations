@@ -1,16 +1,16 @@
 ---
-layout: investigationshome.html
+layout: investigation.html
 title: "العنف ضد المتظاهرين في أم درمان بتاريخ 30 يونيو"
 desc: "8 قتلى وأكثر من 50 جريحًا نتيجة للعنف ضد المتظاهرين في أم درمان في 30 يونيو 2019"
-date:2019-08-15
-image: assets/investigations/omdurman/image19.png
+date: 2019-08-15
+image: /assets/investigations/omdurman/image19.png
 ---
 
--   الموقع: أم درمان
--   التاريخ: 30 يونيو 2019
--   عدد القتلى المُبلغ عنهم: 8 قتلى
--   عدد الجرحى المُبلغ عنهم: أكثر من 50 جريحًا
--   المسؤول المحتمل: المجلس العسكري الانتقالي (TMC)
+- الموقع: أم درمان
+- التاريخ: 30 يونيو 2019
+- عدد القتلى المُبلغ عنهم: 8 قتلى
+- عدد الجرحى المُبلغ عنهم: أكثر من 50 جريحًا
+- المسؤول المحتمل: المجلس العسكري الانتقالي (TMC)
 
 صدر هذا التحقيق عن الأرشيف السوداني بالتعاون مع مختبر بيركلي لحقوق الإنسان. يستخدم التحقيق أدوات وتقنيات مفتوحة المصدر للتحقق من الأدلة التي تم جمعها من مقاطع فيديو، صور و/ أو التقارير المنشورة على الإنترنت. يركز هذا التقرير على العنف ضد المتظاهرين في مدينة أم درمان، المدينة التوأم للخرطوم في 30 يونيو 2019.
 
@@ -22,25 +22,25 @@ image: assets/investigations/omdurman/image19.png
 
 وفقًا لـ [Netblocks](https://netblocks.org/reports/sudan-internet-recovery-after-month-long-shutdown-98aZpOAo)، انقطع اتصال الهاتف المحمول بعد الثالث من يونيو. كما اعترف [المتحدث](https://www.youtube.com/watch?v=3EBN-AMwhFo) باسم المجلس العسكري في مؤتمر صحفيِّ أن المجلس أمر بحظر الإنترنت لأسباب أمنية. عرقل قطع الإنترنت التواصل بين تجمع المهنيين وعامة الناس. علاوة على ذلك، عطل تواصل تجمع المهنيين مع قادة ونشطاء لجان الأحياء. زاد ذلك من الشعور العام بالخوف، لأن الأخبار لم تعد متداولة بسهولة كما كانت في السابق.
 
-![](assets/investigations/omdurman/image17.jpg)
+![](/assets/investigations/omdurman/image17.jpg)
 
 مخطط يوضح الوصول إلى الإنترنت في السودان - [المصدر](https://netblocks.org/reports/sudan-internet-recovery-after-month-long-shutdown-98aZpOAo)
 
 خلال الأسابيع الثلاثة التالية، عمل التجمع على إحياء المظاهرات وإعادة تنظيم النشطاء على الأرض  بمساعدة [لجان الأحياء للمقاومة](https://www.aljazeera.com/news/2019/05/sudan-neighbourhoods-mobilised-al-bashir-190506182950504.html) من خلال ما أسموه "[جدول التصعيد الثوري](https://www.sudaneseprofessionals.org/en/fdfc-revolutionary-escalation-schedule/)". وشملت جهودهم الإعلان عن جداول المظاهرات الليلية وعقد جلسات توعية في الأحياء والقرى في جميع أنحاء السودان، كما دعا المنظمون إلى مزيد من الاحتجاجات.
 
-![](assets/investigations/omdurman/image2.png)
+![](/assets/investigations/omdurman/image2.png)
 
 نشرة إعلانية حول مسيرة 30 يونيو، وتضم شعارات تجمع المهنيين السودانيين ولجنة مقاومة الحاج يوسف
 
 المصدر: [صفحة تجمع المهنيين السودانيين](https://scontent.ftxl3-2.fna.fbcdn.net/v/t1.0-9/65211850_2808386042521398_300473953523073024_o.jpg?_nc_cat=107&_nc_oc=AQm3r-LcvqLDnH29bFrQ1EkHjO0bt_G7PTJps7mm8PPmpxek_-TkX6vDmhrEcke99n0Zh7osXtxFMeNsx--fqUoY&_nc_ht=scontent.ftxl3-2.fna&oh=f5354d13ee0267405a4ca31d8fdd73fb&oe=5DD279B1)
 
-![](assets/investigations/omdurman/image28.png)
+![](/assets/investigations/omdurman/image28.png)
 
-![](assets/investigations/omdurman/image27.png)
+![](/assets/investigations/omdurman/image27.png)
 
-![](assets/investigations/omdurman/image21.png)
+![](/assets/investigations/omdurman/image21.png)
 
-![](assets/investigations/omdurman/image12.png)
+![](/assets/investigations/omdurman/image12.png)
 
 تغريدات تويتر تتناول تفاصيل "جدول التصعيد الثوري"
 
@@ -56,35 +56,35 @@ image: assets/investigations/omdurman/image19.png
 
 قوبلت المظاهرات في جميع أنحاء المدينة بمستوى شديد من القمع. بما في ذلك [حادثة](http://www.sudantribune.com/spip.php?article66899) 9 يناير 2019، حيث هاجمت قوات الأمن الحكومية الطواقم الطبية وأصابت المحتجين داخل مستشفى أم درمان الرئيسي. في شهر [يناير](https://www.dabangasudan.org/en/all-news/article/unprecedented-march-in-omdurman-despite-live-bullets-and-tear-gas) ذاته، تجمع الآلاف في مسيرة نحو البرلمان الوطني في أم درمان مطالبين بإسقاط الرئيس البشير. تحولت المسيرة إلى نقطة تحول في الانتفاضة الشعبية. واكتسبت التجمعات المعارضة للحكومة زخماً منذ ذلك الحين وحتى 30 يونيو؛ عندما بدأ عدد كبير من المتظاهرين في السير في جميع أنحاء المدينة للمطالبة بالحكم المدني. [ذكرت لجنة أطباء السودان المركزية أن أربعة أشخاص على الأقل قُتلوا](https://www.facebook.com/Sudandoctorscommittee/photos/a.1775635796055662/2358543364431566/?type=3&theater) في أم درمان، وأصيب أكثر من 50 شخصًا، معظمهم نتيجة إطلاق النار.
 
-###موكب "المليونية"
+### موكب "المليونية"
 
-![](assets/investigations/omdurman/image4.png)
+![](/assets/investigations/omdurman/image4.png)
 
 صورة أقمار صناعية لموقع احتجاجات أم درمان وموقع الاعتصام السابق في الخرطوم
 
 وفقًا لجدول التصعيد الثوري المنشور من تجمع المهنيين السودانيين قبل عدّة أيام من الحادثة؛ كان المتظاهرون في مدن سودانية مختلفة يتجمعون في نقاط محددة في الساعة 13:00، ويتوجهون إلى منازل بعض الضحايا الذين قتلوا خلال الثورة. حيث كان أحد أهداف "المليونية" الإشادة بذكرهم ودعم أسرهم. أعلن تجمع المهنيين السودانيين [خطة](https://www.facebook.com/SdnProAssociation/posts/2812341875459148) تحدّد أماكن التجمع والطرق المؤدية إلى أربع مناطق رئيسية من العاصمة الكبرى الخرطوم ([الخرطوم](https://goo.gl/maps/JBx4UfkjZXFjrjEC7)، [بحري](https://goo.gl/maps/qBoQs3xpb4ci4ydX9)، [أم درمان](https://goo.gl/maps/YBGn899Ucvhu6N4aA) و[شرق النيل](https://goo.gl/maps/XsGvznFVxKRAh5VR6)). أما بالنسبة لأم درمان، فقد تم تحديد خمس نقاط وطرق لتجمع المتظاهرين، وفقًا للمنشور [الآتي](https://www.facebook.com/SdnProAssociation/posts/2812292685464067?__tn__=K-R).
 
-![](assets/investigations/omdurman/image3.jpg)
+![](/assets/investigations/omdurman/image3.jpg)
 
 بدلاً من زيارة منازل الضحايا كما هو معلن في الخطة الأصلية؛ تحرّك المحتجون من هذه النقاط وغيرها من المواقع في الخرطوم باتجاه [القصر الجمهوري](https://goo.gl/maps/18hV2hQwUNJiERBq8)، وهو مقصد المسيرات السابقة خلال فترة الانتفاضة. في الوقت نفسه، تظاهر المحتجون في أم درمان باتجاه جسر النيل الأبيض، الذي يؤدي إلى الجزء الآخر من العاصمة الخرطوم حيث يقع القصر الرئاسي. أدناه تحديد الموقع الجغرافي.
 
-![](assets/investigations/omdurman/image15.png)
+![](/assets/investigations/omdurman/image15.png)
 
-![](assets/investigations/omdurman/image16.png)
+![](/assets/investigations/omdurman/image16.png)
 
 يظهر أحد مقاطع [الفيديو](https://www.facebook.com/muntasir.abdelbagi/videos/pcb.2553484961330925/2553482327997855/?type=3&theater) متظاهرين يسيرون على طول [شارع الموردة](https://goo.gl/maps/3tyth3SuXsdSnQgh8)، بين قصر الشباب والثقافة والبرلمان الوطني السوداني، على مقربة من جسر النيل الأبيض. نُشر المقطع بتاريخ 30 يونيو في الساعة 7:47 مساءً بتوقيت السودان.
 
-![](assets/investigations/omdurman/image22.png)
+![](/assets/investigations/omdurman/image22.png)
 
 لقطة شاشة لمقطع فيديو يظهر المتظاهرين في شارع الموردة، نُشر يوم الأحد 30 يونيو، الساعة 7:47 مساءً بتوقيت السودان. (لقطة الشاشة بتوقيت سان فرانسيسكو، تم تحويله فيما بعد لتوقيت السودان)
 
-![](assets/investigations/omdurman/image19.png)
+![](/assets/investigations/omdurman/image19.png)
 
 صور الأقمار الصناعية لمواقع الاحتجاجات والعنف الرئيسية في أم درمان في 30 يونيو 2019.
 
 عند اقتراب المحتجين من جسر النيل الأبيض مُنعوا من العبور. نُشر [مقطع فيديو](https://www.facebook.com/m7moudko/videos/2521326007928769/) آخر  في 1 يوليو، يصوّر التقاطع والجسر نفسه ويوثّق مسيرة المتظاهرين باتجاه الجسر وتجمّعهم عند المدخل.
 
-![](assets/investigations/omdurman/image7.jpg)
+![](/assets/investigations/omdurman/image7.jpg)
 
 تتطابق المعالم البارزة المحددة في لقطة من مقطع فيديو تم التحقق منه مع موقع "المليونية" في أم درمان في 30 يونيو.
 
@@ -92,9 +92,9 @@ image: assets/investigations/omdurman/image19.png
 
 استخدم الأرشيف السوداني أداة [Shadow Calculator](http://suncalc.net/#/51.508,-0.125,2/2019.08.07/18:14) لتحليل للظلال الظاهرة في مقطع الفيديو، والتي تشير إلى أن الفيديو التُقِط حوالي الساعة 3:30 مساءً، كما يتطابق الطقس الظاهر في الفيديو مع طقس يوم 30 يونيو.
 
-![](assets/investigations/omdurman/image8.png)
+![](/assets/investigations/omdurman/image8.png)
 
-![](assets/investigations/omdurman/image25.png)
+![](/assets/investigations/omdurman/image25.png)
 
 لقطة شاشة من أداة SunCalc تظهر الظل في 30 يونيو في الساعة 03:30 مساءً بتوقيت الخرطوم
 
@@ -102,31 +102,31 @@ image: assets/investigations/omdurman/image19.png
 
 مقطع [فيديو](https://www.facebook.com/abdalgader.abdall/videos/2897595783798199/) آخر تم تصويره على مقربة من جسر النيل الأبيض يُظهر المحتجين يفرون وسط أصوات إطلاق النار، ويحتمون خلف الأشجار ويقفزون فوق الأسوار للتنحي عن الطريق.
 
-![](assets/investigations/omdurman/image6.jpg)
+![](/assets/investigations/omdurman/image6.jpg)
 
 لقطات من شريط فيديو تطابق [موقع جسر النيل الأبيض](https://www.google.com/maps/place/15%C2%B036'58.0%22N+32%C2%B029'15.1%22E/@15.6161196,32.4868422,293m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d15.6161175!4d32.4875216?shorturl=1) على طول شارع الموردة، حيث تجمع المتظاهرون في 30 يونيو.
 
 نٌشر شريط [فيديو](https://www.facebook.com/midoeoker/videos/10157552480435680/) آخر في 30 يونيو في الساعة 9:33 مساءً، ويظهر فرار متظاهرين من الغاز المسيل للدموع في شارع الموردة، في اتجاه المستشفى العسكري.
 
-![](assets/investigations/omdurman/image13.jpg)
+![](/assets/investigations/omdurman/image13.jpg)
 
 لقطات من شريط فيديو من المحتمل أن يكون قد التُقط من أمام قصر الشباب والأطفال، تظهر المتظاهرين الفارين من الغاز المسيل للدموع. تتطابق هذه اللقطات مع [موقع الاحتجاج الذي تم التحقق منه](https://www.google.com/maps/place/15%C2%B036'59.4%22N+32%C2%B029'06.5%22E/@15.6165,32.4838193,680m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d15.6165116!4d32.4851354) أمام جسر النيل الأبيض.
 
 [يظهر مقطع فيديو](https://www.facebook.com/watch/?v=388836255081838) آخر المتظاهرين يركضون من الغاز المسيل للدموع في المكان نفسه.
 
-![](assets/investigations/omdurman/image5.jpg)
+![](/assets/investigations/omdurman/image5.jpg)
 
 لقطة من مقطع فيديو تم تصويره في شارع الموردة، يظهر فرار المتظاهرين من الغاز المسيل للدموع ويتطابق أيضًا مع صور الأقمار الصناعية ل[موقع الاحتجاج أمام جسر النيل الأبيض](https://www.google.com/maps/place/15%C2%B036'59.4%22N+32%C2%B029'06.5%22E/@15.6165,32.4838193,680m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d15.6165116!4d32.4851354).
 
 كما أظهرت مقاطع فيديو وصور إضافية نُشرت على الإنترنت ضباطا تابعين لقوات الدعم السريع على قمة قصر الشباب والأطفال (PYC). قال نائب رئيس المجلس العسكري محمد حمدان دقلو، والمعروف أيضًا باسم حميدتي، خلال مؤتمر صحفي أن هناك قناصة على سطح قصر الشباب والأطفال، وأن ثلاثة من أعضاء قوات الدعم السريع قد أُصيبوا بالرصاص. وأشار إلى أن إطلاق النار وقعَ بينما كان يتحدث أمام تجمع [عام](https://www.youtube.com/watch?v=WuUeEwFDcyc&t=216s&fbclid=IwAR1eViMKocEqs6BjqzqChkAOmTSMaIS2uU92Hk53C99mA_fB7kADDN7wses) في منطقة شرق النيل  شرقي الخرطوم. تم تحميل الفيديو الخاص بتعليقات محمد حمدان دقلو في 30 يونيو في الساعة 4:35 مساءً وفقًا لأداة التحقق من الفيديو التابعة لمنظمة العفو الدولية.
 
-![](assets/investigations/omdurman/image20.png)
+![](/assets/investigations/omdurman/image20.png)
 
 لقطة شاشة لأداة تستخدم للتحقق من وقت تحميل مقطع فيديو قدّم فيه حميدتي تعليقات عامة
 
 في [تغريدة](https://twitter.com/Monzirelnino/status/1146698855183978496) نُشرت بعد أيام قليلة من الحادثة؛ أظهر مقطع فيديو تواجد "قناصة الجنجويد" في مبنى القصر بجوار مستشفى السلاح الطبي في أم درمان في 30 يونيو.
 
-![](assets/investigations/omdurman/image11.png)
+![](/assets/investigations/omdurman/image11.png)
 
 ## متى حدث ذلك؟
 
@@ -134,7 +134,7 @@ image: assets/investigations/omdurman/image19.png
 
 للتحقق من توقيت وموقع التقاط مقاطع الفيديو والصور المنشورة، أجرى الأرشيف السوداني تحليلًا للطقس والظلال الظاهرة فيها. اسُتخدمت أداة [WolframAlpha](https://www.wolframalpha.com/) لمعرفة حالة الطقس في 30 يونيو 2019. يتوافق الطقس المحدد بواسطة الأداة مع الطقس الظاهر في مقاطع الفيديو والصور المنشورة عبر وسائل التواصل الاجتماعي المتعلقة بالحادث، مما يعزز ما تم الإبلاغ عنه. فيما يلي لقطة شاشة لتحليل WolframAlpha:
 
-![](assets/investigations/omdurman/image23.png)
+![](/assets/investigations/omdurman/image23.png)
 
 ## أين حدث ذلك؟
 
@@ -144,33 +144,33 @@ image: assets/investigations/omdurman/image19.png
 
  كان البرلمان الوطني للسودان واللوحات الإعلانية ومقسم الطريق من المعالم البارزة المشتركة بين العديد من مقاطع الفيديو التي تم التحقق منها.
 
-![](assets/investigations/omdurman/image10.png)
+![](/assets/investigations/omdurman/image10.png)
 
 لقطة شاشة من لمقطع فيديو يظهر الاحتجاجات، كما يظهر البرلمان الوطني للسودان (وردي)، لوحات إعلانية كبيرة (أخضر)، ومقسم للطرق (أزرق).
 
-![](assets/investigations/omdurman/image9.png)
+![](/assets/investigations/omdurman/image9.png)
 
 صورة أقمار صناعية لأم درمان، تظهر مواقع البرلمان الوطني للسودان (وردي)، لوحات إعلانية كبيرة (أخضر)، ومقسم للطرق (أزرق).
 
 كما تظهر معالم أخرى تشمل المزيد من اللوحات الإعلانية، مدخل جسر النيل الأبيض، وفندق كورينثيا في الخرطوم.
 
-![](assets/investigations/omdurman/image24.png)
+![](/assets/investigations/omdurman/image24.png)
 
 لقطة شاشة من مقطع فيديو يوثّق [الاحتجاجات](https://www.google.com/maps/place/15%C2%B036'59.4%22N+32%C2%B029'06.5%22E/@15.6165149,32.4838997,532m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d15.6165116!4d32.4851354?shorturl=1)، حيث تظهر لوحات إعلانية (اصفر)، ومدخل جسر النيل الأبيض (أحمر)، وفندق كورينثيا (برتقالي).
 
-![](assets/investigations/omdurman/image1.png)
+![](/assets/investigations/omdurman/image1.png)
 
 صورة أقمار صناعية تظهر موقع اللوحات الإعلانية (أصفر) ومدخل جسر النيل الأبيض (أحمر).
 
-![](assets/investigations/omdurman/image14.png)
+![](/assets/investigations/omdurman/image14.png)
 
 صورة فندق كورينثيا في الخرطوم.
 
-![](assets/investigations/omdurman/image26.png)
+![](/assets/investigations/omdurman/image26.png)
 
 صورة أقمار صناعية توضح موقع فندق كورينثيا في الخرطوم.
 
-![](assets/investigations/omdurman/image18.png)
+![](/assets/investigations/omdurman/image18.png)
 
 صورة أقمار صناعية توضح موقع فندق كورينثيا مقارنة بموقع احتجاج أم درمان.
 
@@ -180,11 +180,11 @@ image: assets/investigations/omdurman/image19.png
 
 ذكر [التحديث الميداني الأول](https://www.facebook.com/Sudandoctorscommittee/posts/2358594017759834) من لجنة أطباء السودان المركزية ما يلي حول الهجمات في مدينة أم درمان
 
-" - إصابة بعيار ناري في الرأس. حالة غير مستقرة، أدخل في وحدة العناية المركزة.
+- إصابة بعيار ناري في الرأس. حالة غير مستقرة، أدخل في وحدة العناية المركزة.
 
- - ثلاث (3) حالات إصابة بعيار ناري بجروح في البطن وحالة إصابة في الرأس باسطوانة غاز مسيل للدموع، تخضع لعملية جراحية في وقت إعداد هذا التقرير.
+- ثلاث (3) حالات إصابة بعيار ناري بجروح في البطن وحالة إصابة في الرأس باسطوانة غاز مسيل للدموع، تخضع لعملية جراحية في وقت إعداد هذا التقرير.
 
- - أربعون (40) جريحًا في مستشفى السلاح الطبي، بعض الحالات حرجة وتتطلب التدخل الجراحي العاجل "
+- أربعون (40) جريحًا في مستشفى السلاح الطبي، بعض الحالات حرجة وتتطلب التدخل الجراحي العاجل "
 
 وسرعان ما تلى ذلك [بيان](https://www.facebook.com/sudandoctorunion/posts/2833597293348748) صادر عن نقابة الأطباء السودانية والذي كشف عن مقتل أربعة مدنيين بالرصاص في أم درمان. أكّد ذلك [تقرير](https://www.facebook.com/Sudandoctorscommittee/posts/2358543674431535) أصدرته لجنة أطباء السودان المركزية في الوقت ذاته، وردت فيه أسماء بعض الضحايا، وهم:
 
