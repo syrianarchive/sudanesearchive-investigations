@@ -1,7 +1,7 @@
 ---
 layout: contentwithsiblings.html
 title: Research Methodology
-date: 
+date:
 desc: Open Source Tools and Methods for Open Source Investigations - Digital Evidence Workflow
 image: /assets/technology/methods-workflow.png
 ---
@@ -45,7 +45,7 @@ Similar to the archival and collection methodology, the initial verification met
 
 - Aggregate metadata from visual evidence
 - Verify the source of the video
-- Verify the location of the video 
+- Verify the location of the video
 - Verify the dates in which the video was filmed and uploaded, and
 - Publish verified video evidence on the Sudanese Archive's online database.
 
@@ -59,10 +59,10 @@ Metadata from visual evidence sent directly or scraped from social media website
 
 To verify the source of the video, it needs to be established that the source of the video on the Sudanese Archive's verified list of credible sources. If the source is not an existing trusted source, determine the new source's credibility by evaluating:
 
-- Whether the source is familiar to the Sudan Archive or to its existing professional network of Sudanese journalists and media activists; 
-- Whether the source's content and reportage been reliable in the past. This is determined by evaluating how long the source has been reporting and how active they are; 
-- Where the source is based. This is determined by evaluating whether videos uploaded are consistent and mostly from a specific location where the source is based; 
-- Whether the video account uses a logo and whether this logo is consistently used across videos; 
+- Whether the source is familiar to the Sudan Archive or to its existing professional network of Sudanese journalists and media activists;
+- Whether the source's content and reportage been reliable in the past. This is determined by evaluating how long the source has been reporting and how active they are;
+- Where the source is based. This is determined by evaluating whether videos uploaded are consistent and mostly from a specific location where the source is based;
+- Whether the video account uses a logo and whether this logo is consistently used across videos;
 - Whether the uploader aggregates videos from other news organisations and YouTube accounts, or whether they upload mostly user-generated content.
 
 ### Step 3 : Verify the location of the video
@@ -74,8 +74,8 @@ Each video has gone through basic geolocation to verify that it has been capture
 The Sudanese Archive verifies the date of capturing the video by cross-referencing the publishing date on social media platforms with dates from reports concerning the same incident. Sources for reports used for cross-referencing include:
 
 - News reports from international and local media outlets.
-- Human rights reports published by international and local organisations; 
-- Reports shared by the Sudanese Archive's network of citizen reporters on social media about the incidents. 
+- Human rights reports published by international and local organisations;
+- Reports shared by the Sudanese Archive's network of citizen reporters on social media about the incidents.
 
 ### Step 5 : Published verified video evidence to Sudanese Archive database
 
@@ -83,4 +83,4 @@ After videos have gone through the basic verification process, they are uploaded
 
 ## C. In-depth verification
 
-In some cases, the Sudan Archive is able to conduct in-depth online open source investigations. Videos and other open source materials shared online are used in order to understand the incident and verify the veracity of claims made about incidents. Time and capacity limitations means not all incidents are able to be analysed in-depth, however by developing a replicable workflow it is hoped that others can assist in these efforts to investigate other incidents using similar methods.
+In some cases, the Sudanese Archive is able to conduct in-depth online open source investigations. Videos and other open source materials shared online are used in order to understand the incident and verify the veracity of claims made about incidents. Time and capacity limitations means not all incidents are able to be analysed in-depth, however by developing a replicable workflow it is hoped that others can assist in these efforts to investigate other incidents using similar methods.

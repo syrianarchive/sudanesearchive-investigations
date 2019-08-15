@@ -1,9 +1,9 @@
 ---
 layout: contentwithsiblings.html
 title: Terms of Use
-date: 2017-03-03
+date: 2019-07-22
 desc:
-image: "/assets/about/about2.jpg"
+image: "/assets/logos/logo.png"
 drafts: true
 ---
 

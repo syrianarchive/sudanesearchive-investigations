@@ -1,8 +1,8 @@
 ---
 layout: contentwithsiblings.html
 title: "الوضع القانوني"
-image: "/assets/about/about2.jpg"
+image: "/assets/legal.jpg"
 drafts: true
 ---
 
-منظمة "الأرشيف السوداني" مسجّلة حاليًا لدى Gesellschaft bürgerlichen Rechts (GbR) nach BGB §705ff في برلين، ألمانيا.
+مشروع "الأرشيف السوداني" مسجّل في ألمانيا.
