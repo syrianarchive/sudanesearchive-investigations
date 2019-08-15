@@ -180,11 +180,11 @@ Satellite imagery showing the location of the Corinthia hotel compared with the 
 
 The first [field update](https://www.facebook.com/Sudandoctorscommittee/posts/2358594017759834) from the CCSD stated the following about the attacks in the city of Omdurman
 
-“\- An injury with a gunshot in the head. Unstable condition admitted in ICU.
+- An injury with a gunshot in the head. Unstable condition admitted in ICU.
 
-\- Three (3) cases with a gunshot in the abdomen wounds and a case with head injury with tear gas canister are undergoing surgeries at the time of this report.
+- Three (3) cases with a gunshot in the abdomen wounds and a case with head injury with tear gas canister are undergoing surgeries at the time of this report.
 
-\- Forty (40) wounded at El Selah El Tabi hospital, some of them are critical and required urgent surgical intervention.”
+- Forty (40) wounded at El Selah El Tabi hospital, some of them are critical and required urgent surgical intervention.”
 
 This was soon followed by a [statement](https://www.facebook.com/sudandoctorunion/posts/2833597293348748) from Sudan’s Doctors Syndicate which revealed that four civilians were shot dead in Omdurman. This was corroborated by a [report](https://www.facebook.com/Sudandoctorscommittee/posts/2358543674431535) simultaneously released by the CCSD which named the following
 
@@ -226,7 +226,7 @@ According to a different [report](https://www.facebook.com/sudandoctorunion/post
 
 Zaki a 25 year old man left his home on June 30th to participate in the million march in the city of Omdurman. His body was found twelve days later on July/12th in the morgue of Omdurman Hospital as he suffered a gunshot wound to the head on June/30th, according to a [report](https://www.facebook.com/Sudandoctorscommittee/posts/2372888709663698) by the CCSD. This report also expressed apologies by CCSD as it stated “ CCSD’s field office provided the information in time. However, administrative circumstances hindered the publication at the time.” According to the family of Zaki in an [interview](https://www.facebook.com/sotalsora2019/posts/473441806573049) with Al Sudani newspaper, pointed that they searched for him at police stations, hospitals, morgues for days..but he was never found. As internet services were restored in Sudan, videos started to surface, one of these videos is a [video](https://www.facebook.com/yahya.Huseein/videos/2431871950182455/) that was filmed on June 30th of young man in a yellow shirt being carried by protestors as he bleeds from a wound on his head. According to Zaki’s brother in the family [interview](https://www.facebook.com/sotalsora2019/posts/473441806573049) , that they saw the video and believed that the person being carried is Zaki. The video along with screenshots were posted to a Facebook group named MISSING ( a group that features info and pictures of those missing during the revolution) as a [post](https://www.facebook.com/groups/392935134763820/permalink/410672882990045/) and requested those with info or those who were present at that time of video being shot to come forward. The next day, the family received a call from Omdurman Morgue notifying them that the morgue has a body that resembles their son. On July/12th, the body of Zaki Magdi was identified and according to the family [statements](https://www.facebook.com/sotalsora2019/posts/473441806573049) , the autopsy revealed that he was shot in the head as the bullet shattered the skull, damaged the brain cells and left his body.
 
-###Side Note:
+### Side Note:
 
 It is unclear to the writing of this, that the reports from both Central Committee of Sudan Doctors (CCSD) and Sudan Doctors’ Syndicate that named a dead unidentified young man respectively, were indeed referring to the body of Zaki Magdi Zaki, as both reports were released before his body was found. No updates have been provided by both bodies as of the writing of this.
 
