@@ -2,7 +2,7 @@
 layout: investigation.html
 title: "Violence against protesters in Omdurman on June 30"
 desc: "8 dead, more than 50 injured as a result of violence against protesters in Omdurman on June 30, 2019"
-date: 2019-08-15
+date: 2019-08-19
 image: /assets/investigations/omdurman/image19.png
 ---
 
@@ -184,7 +184,7 @@ The first [field update](https://www.facebook.com/Sudandoctorscommittee/posts/23
 
 - Three (3) cases with a gunshot in the abdomen wounds and a case with head injury with tear gas canister are undergoing surgeries at the time of this report.
 
-- Forty (40) wounded at El Selah El Tabi hospital, some of them are critical and required urgent surgical intervention.”
+- Forty (40) wounded at [El Selah El Tabi hospital](https://goo.gl/maps/Kgend88VTDYUWphG9), some of them are critical and required urgent surgical intervention.”
 
 This was soon followed by a [statement](https://www.facebook.com/sudandoctorunion/posts/2833597293348748) from Sudan’s Doctors Syndicate which said four civilians were shot dead in Omdurman. A [report](https://www.facebook.com/Sudandoctorscommittee/posts/2358543674431535) released shortly after by the CCSD named the following victims:
 
@@ -202,7 +202,7 @@ The statement from the Sudan’s Doctors Syndicate also identified another victi
 
 ### B: Khor Abu Anga victims
 
-In the early hours of July 1st, three bodies were found next to [Khor (creek) Abu Anga](https://goo.gl/maps/VR1haWfeP8CreXnn7) in the city of  Omdurman. According to a CCSD [report](https://www.facebook.com/Sudandoctorscommittee/posts/2359116494374253), the bodies were taken to Omdurman Hospital Morgue and two of the victims were identified. All three showed signs of torture and gunshot wounds. Initial posts by the CCSD did not explicitly link the bodies to the protest. Sudanese Archive contacted Dr. Nazim Sirag of the CCSD and he confirmed that the three bodies found indeed were of June 30th Omdurman protesters.
+In the early hours of July 1st, three bodies were found next to [Khor (creek) Abu Anga](https://goo.gl/maps/VR1haWfeP8CreXnn7) in the city of  Omdurman. According to a CCSD [report](https://www.facebook.com/Sudandoctorscommittee/posts/2359116494374253), the bodies were taken to Omdurman Hospital Morgue and two of the victims were identified. All three showed signs of torture and gunshot wounds. Initial posts by the CCSD did not explicitly link the bodies to the protest. Sudanese Archive contacted a source close to the protesters who said that the three bodies found indeed were of June 30th Omdurman protesters.
 
 The reported victims were:
 1- Mohammed Abdelrahman Adam, 19 years old from the neighborhood of Al Jumueia
@@ -215,7 +215,7 @@ According to a [report](https://www.facebook.com/sudandoctorunion/posts/28360289
 
 Zaki Magdi Zaki, a 25 year old man, left his home on June 30th to participate in the million march in the city of Omdurman, according an [interview](https://www.facebook.com/sotalsora2019/posts/473441806573049) his family gave to Al Sudani newspaper. He never came home. In the interview, the family says they searched for him at police stations, hospitals, morgues for days… but he was never found.
 
-Twelve days later, on June 12, his body was identified in the morgue of the Omdurman Hospital, according to a [report](https://www.facebook.com/Sudandoctorscommittee/posts/2372888709663698) by the CCSD. He had suffered a gunshot wound to the head. The report also expressed apologies by the CCSD, saying “CCSD’s field office provided the information in time. However, administrative circumstances hindered the publication at the time.”
+Twelve days later, on July 12, his body was identified in the morgue of the Omdurman Hospital, according to a [report](https://www.facebook.com/Sudandoctorscommittee/posts/2372888709663698) by the CCSD. He had suffered a gunshot wound to the head. The report also expressed apologies by the CCSD, saying “CCSD’s field office provided the information in time. However, administrative circumstances hindered the publication at the time.”
 
 It remains unclear whether Zaki Magdi Zaki is the same unidentified protest victim reported in initial statements, or whether there is another unidentified victim. The Sudanese Archive contacted the CCSD for clarity, but was not able to confirm. As such, it can be determined based on these sources that at least eight people were killed during the Omdurman protest on June 30th, although there could be more victims.
 
@@ -223,4 +223,4 @@ It remains unclear whether Zaki Magdi Zaki is the same unidentified protest vict
 
 After collecting and analysing visual documentation published on social media platforms and news networks, The Sudanese Archive team determined that protesters in Omdurman were targeted with violence on June 30th 2019.
 
-According to the analysed evidence and sources, protesters marched toward White Nile Bridge and were blocked by the security forces. The officers used force to disperse the protesters, resulting in at least 8 killed and more than 50 injured.
+According to the analysed evidence and sources, protesters marched toward White Nile Bridge and were blocked by the security forces that used force to disperse the protesters, resulting in at least 8 killed and more than 50 injured.
