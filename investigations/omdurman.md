@@ -186,52 +186,41 @@ The first [field update](https://www.facebook.com/Sudandoctorscommittee/posts/23
 
 - Forty (40) wounded at El Selah El Tabi hospital, some of them are critical and required urgent surgical intervention.”
 
-This was soon followed by a [statement](https://www.facebook.com/sudandoctorunion/posts/2833597293348748) from Sudan’s Doctors Syndicate which revealed that four civilians were shot dead in Omdurman. This was corroborated by a [report](https://www.facebook.com/Sudandoctorscommittee/posts/2358543674431535) simultaneously released by the CCSD which named the following
+This was soon followed by a [statement](https://www.facebook.com/sudandoctorunion/posts/2833597293348748) from Sudan’s Doctors Syndicate which said four civilians were shot dead in Omdurman. A [report](https://www.facebook.com/Sudandoctorscommittee/posts/2358543674431535) released shortly after by the CCSD named the following victims:
 
-1- Dr. Mamoun Bashir El Tayeb. A 50 year old optometrist seen in this [picture](https://www.facebook.com/permalink.php?story_fbid=2446091285456337&id=579251728806978) who was shot outside the Military Hospital as he went there to donate blood and was shot as he was leaving.
+1- Dr. Mamoun Bashir El Tayeb. A 50 year old;
 
-2- Mohammed Osman Issac. A 19 year old man seen in this [picture](https://www.facebook.com/karar.osman.9/posts/1299834200186187) who lived in Al Salha, Omdurman, was shot in the neck nearby White Nile bridge and was taken to Military Hospital where he died [post](https://www.facebook.com/permalink.php?story_fbid=1469547353249304&id=100005821605344).
+2- Mohammed Osman Issac in his twenties;
 
-3- Daffa’ Allah El Daw. A young man in his twenties who worked at the cafeteria in the Sudan University for Science and Technology [pictured](https://www.facebook.com/sotalsora2019/posts/472369980013565) here.
+3- Daffa’ Allah El Daw;
 
 4- A young unidentified male
 
-On the other hand and according to the statement linked above by the Sudan’s Doctors Syndicate identified another young man named
+The statement from the Sudan’s Doctors Syndicate also identified another victim:
 
-5- Abdelraheem, 18 from Ombada, Jamous Stop and that he was shot twice in the hand and thigh and that he died as a result of his injury.
+5- Abdelraheem
 
-This has not been corroborated by any other entity/ body.
+### B: Khor Abu Anga victims
 
-However, the two reports from both Sudan Doctors Syndicate and the CCSD noted a body of an unidentified young male.
+In the early hours of July 1st, three bodies were found next to [Khor (creek) Abu Anga](https://goo.gl/maps/VR1haWfeP8CreXnn7) in the city of  Omdurman. According to a CCSD [report](https://www.facebook.com/Sudandoctorscommittee/posts/2359116494374253), the bodies were taken to Omdurman Hospital Morgue and two of the victims were identified. All three showed signs of torture and gunshot wounds. Initial posts by the CCSD did not explicitly link the bodies to the protest. Sudanese Archive contacted Dr. Nazim Sirag of the CCSD and he confirmed that the three bodies found indeed were of June 30th Omdurman protesters.
 
-### B: Khor Abu Anga Victims
-
-Three bodies had been found next to Khor (creek) Abu Anga [map](https://www.google.com/maps/place/%D8%AE%D9%88%D8%B1+%D8%A7%D8%A8%D9%88+%D8%B9%D9%86%D8%AC%D8%A9%E2%80%AD/@15.6503381,32.4485654,16z/data=!4m5!3m4!1s0x168e8c70de091ab5:0xfb5f65d87d397f3c!8m2!3d15.64976!4d32.4536723) in the city of Omdurman in the early hours of July/1st, a day after the June 30th protests. According to the initial [report](https://www.facebook.com/Sudandoctorscommittee/posts/2359116494374253) by the Central Committee of Sudan Doctors ( CCSD), the bodies were taken to Omdurman Hospital Morgue and two of the victims were identified and all three show signs of torure and gunshot wounds. Initial posts by the CCSD did not explicitly link the bodies to the protest. We contacted Dr. Nazim Sirag of the CCSD and he confirmed that the three bodies found indeed were of protesters of the 30th June March.
-
+The reported victims were:
 1- Mohammed Abdelrahman Adam, 19 years old from the neighborhood of Al Jumueia
+2- Hamid Omer Yousif, 23 years old from Dar Al Salam, Omdurman
+3- An unidentified young man
 
-2- Hamid Omer Yousif , 23 years old from Dar Al Salam, Omdurman
+According to a [report](https://www.facebook.com/sudandoctorunion/posts/2836028939772250) by the Sudan Doctors’ Syndicate, the three victims were targeted as leaders of protests because Sudanese flags, microphones and a large banner that called for the million march and for justice were found next to their bodies.
 
-3- Unidentified young man.
+### C: The Story of Zaki Magdi Zaki
 
-In this [video](https://www.facebook.com/omer.mahmoud.z/videos/10156929502332631/) posted to Facebook, shows a crowd of people surrounding the three bodies and videotaping their faces, two of whom were later identified as Moahmmed and Hamid. In these [picture](https://www.facebook.com/militarycouncilviolations/photos/a.618432778625201/638913496577129/?type=3)  [picture](https://www.facebook.com/militarycouncilviolations/photos/a.618432778625201/638913463243799/?type=3), the body of Mohammed Abdelrahman Adam can be clearly identified with a large wound on his jaw. According to journalist’s Shamael El Nour [post](https://www.facebook.com/shamael.elnoor/posts/10161724474830315) the autopsy report indicated “ The neck bones are damaged and so are the veins and arteries of the neck, and severe bleeding that is caused by gunshot wounds ( 3 gunshots)” In an [interview](https://www.facebook.com/mohamad.nor.5661/posts/2479572938761446) by Al Sudani newspaper with Mohammed’s family corrobaorated that their son’s body showed signed of severe torture and that he was shot from close up on the neck.
+Zaki Magdi Zaki, a 25 year old man, left his home on June 30th to participate in the million march in the city of Omdurman, according an [interview](https://www.facebook.com/sotalsora2019/posts/473441806573049) his family gave to Al Sudani newspaper. He never came home. In the interview, the family says they searched for him at police stations, hospitals, morgues for days… but he was never found.
 
-The second victim, Hamid Omar Yosif body seen in this [picture](https://www.facebook.com/militarycouncilviolations/photos/a.618432778625201/638913526577126/?type=3) was found shot in the thigh and that the forensic report concluded that he bled to death, according to a [statement](https://www.facebook.com/mohamad.nor.5661/posts/2479572938761446) by his mother to Al Sudani newspaper. Hamid’s mother added that he left in the morning of June 30th to join the protests and never came back until she received a phone call the next morning as she was searching for him informing her that he is at the Military Hospital but when she arrived she was told he is at Omdurman Hospital. Hamid Omar is 23 years old who lived in Dar Al Salam in Omdurman and was studying at the Technical School.
+Twelve days later, on June 12, his body was identified in the morgue of the Omdurman Hospital, according to a [report](https://www.facebook.com/Sudandoctorscommittee/posts/2372888709663698) by the CCSD. He had suffered a gunshot wound to the head. The report also expressed apologies by the CCSD, saying “CCSD’s field office provided the information in time. However, administrative circumstances hindered the publication at the time.”
 
-The third victim shown in the same video linked above and in [picture](https://www.facebook.com/militarycouncilviolations/photos/a.618432778625201/638913379910474/?type=3)  [picture](https://www.facebook.com/militarycouncilviolations/photos/a.618432778625201/638913286577150/?type=3) whom identity still remains unknown, seems to have suffered from a gunshot wound to the head.
-
-According to a different [report](https://www.facebook.com/sudandoctorunion/posts/2836028939772250) by the Sudan Doctors’ Syndicate, pointed out that the three murdered protesters were targeted as leaders of protests because Sudanese flags, microphones and a large banner [pictured](https://www.facebook.com/wgdcom/posts/2477676022283112) here that called for the million march and justice were found next to their bodies
-
-### C: The Story of Zaki Magdi Zaki:
-
-Zaki a 25 year old man left his home on June 30th to participate in the million march in the city of Omdurman. His body was found twelve days later on July/12th in the morgue of Omdurman Hospital as he suffered a gunshot wound to the head on June/30th, according to a [report](https://www.facebook.com/Sudandoctorscommittee/posts/2372888709663698) by the CCSD. This report also expressed apologies by CCSD as it stated “ CCSD’s field office provided the information in time. However, administrative circumstances hindered the publication at the time.” According to the family of Zaki in an [interview](https://www.facebook.com/sotalsora2019/posts/473441806573049) with Al Sudani newspaper, pointed that they searched for him at police stations, hospitals, morgues for days..but he was never found. As internet services were restored in Sudan, videos started to surface, one of these videos is a [video](https://www.facebook.com/yahya.Huseein/videos/2431871950182455/) that was filmed on June 30th of young man in a yellow shirt being carried by protestors as he bleeds from a wound on his head. According to Zaki’s brother in the family [interview](https://www.facebook.com/sotalsora2019/posts/473441806573049) , that they saw the video and believed that the person being carried is Zaki. The video along with screenshots were posted to a Facebook group named MISSING ( a group that features info and pictures of those missing during the revolution) as a [post](https://www.facebook.com/groups/392935134763820/permalink/410672882990045/) and requested those with info or those who were present at that time of video being shot to come forward. The next day, the family received a call from Omdurman Morgue notifying them that the morgue has a body that resembles their son. On July/12th, the body of Zaki Magdi was identified and according to the family [statements](https://www.facebook.com/sotalsora2019/posts/473441806573049) , the autopsy revealed that he was shot in the head as the bullet shattered the skull, damaged the brain cells and left his body.
-
-### Side Note:
-
-It is unclear to the writing of this, that the reports from both Central Committee of Sudan Doctors (CCSD) and Sudan Doctors’ Syndicate that named a dead unidentified young man respectively, were indeed referring to the body of Zaki Magdi Zaki, as both reports were released before his body was found. No updates have been provided by both bodies as of the writing of this.
+It remains unclear whether Zaki Magdi Zaki is the same unidentified protest victim reported in initial statements, or whether there is another unidentified victim. The Sudanese Archive contacted the CCSD for clarity, but was not able to confirm. As such, it can be determined based on these sources that at least eight people were killed during the Omdurman protest on June 30th, although there could be more victims.
 
 ## Conclusion
 
-After collecting and analysing visual documentation published on social media platforms and news networks, Sudan Archive determined that protesters in Omdurman were targeted with violence on June 30th 2019.
+After collecting and analysing visual documentation published on social media platforms and news networks, The Sudanese Archive team determined that protesters in Omdurman were targeted with violence on June 30th 2019.
 
-According to the analysed evidence and sources, protesters marched toward White Nile Bridge and were blocked by the security forces. The officers used force to disperse the protesters, resulting in 5 killed and more than 50 injured.
+According to the analysed evidence and sources, protesters marched toward White Nile Bridge and were blocked by the security forces. The officers used force to disperse the protesters, resulting in at least 8 killed and more than 50 injured.
