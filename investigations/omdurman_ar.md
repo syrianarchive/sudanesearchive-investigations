@@ -14,7 +14,8 @@ image: /assets/investigations/omdurman/image19.png
 
 صدر هذا التحقيق عن الأرشيف السوداني بالتعاون مع مختبر بيركلي لحقوق الإنسان. يستخدم التحقيق أدوات وتقنيات مفتوحة المصدر للتحقق من الأدلة التي تم جمعها من مقاطع فيديو، صور و/ أو التقارير المنشورة على الإنترنت. يركز هذا التقرير على العنف ضد المتظاهرين في مدينة أم درمان، المدينة التوأم للخرطوم في 30 يونيو 2019.
 
-<iframe width="760" height="515" src="https://www.youtube.com/embed/9xI5PQ5LAWY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/hjqFEMcidRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## المقدمة
 
@@ -52,7 +53,7 @@ image: /assets/investigations/omdurman/image19.png
 
 ## ماذا حدث؟
 
-في 30 يونيو 2019، تجمع المتظاهرون في جميع أنحاء السودان. شهدت 28 مدينة في جميع أنحاء السودان [احتجاجات](https://www.sudanesearchive.org/en/investigations/june30mapping.html) كبيرة. توثّق فريق التحقيق لدينا من [تقارير](https://www.sudanesearchive.org/en/investigations/june30mapping.html) أشارت إلى استخدام العنف في 9 مدن رئيسية. قدرت لجنة أطباء السودان المركزية إجمالي عدد القتلى بثمانية أشخاص، بالإضافة إلى أكثر من 148 إصابة.
+في 30 يونيو 2019، تجمع المتظاهرون في جميع أنحاء السودان. شهدت 28 مدينة في جميع أنحاء السودان [احتجاجات](https://www.sudanesearchive.org/en/investigations/june30mapping.html) كبيرة. توثّق فريق التحقيق لدينا من [تقارير](https://www.sudanesearchive.org/en/investigations/june30mapping.html) أشارت إلى استخدام العنف في 9 مدن رئيسية. قدرت لجنة أطباء السودان المركزية إجمالي عدد القتلى بتسعة أشخاص، بالإضافة إلى أكثر من 148 إصابة.
 
 تقع مدينة [أم درمان](https://www.google.com/maps/place/Omdurman,+Sudan/@15.6424713,32.315402,11z/data=!3m1!4b1!4m5!3m4!1s0x168e8bf303b5ade3:0xffa2d3531b1ae48f!8m2!3d15.6475782!4d32.4806894)، واحدة من المدن الثلاث التي تتألف منها العاصمة الخرطوم، على بعد حوالي 8 كيلومترات من مكان الاعتصام. شهدت المدينة عددًا من الاحتجاجات الكبرى منذ بدء الانتفاضة في ديسمبر 2018. وكانت مناطق مثل [أمبدة](https://goo.gl/maps/mchVjCwooTP4k8Et7)، [العباسية](https://goo.gl/maps/A1yVTXxRCEoWCKnH6)، [أبو روف](https://goo.gl/maps/no5qXwus8qvRgrmJ8)، [ود نوباوي](https://goo.gl/maps/5mcFUeNHmoZf5cGj6) و[المهندسين](https://goo.gl/maps/hpoSbLCd7BUs3qHu5) بشكل خاص مراكز تجمّعٍ كبرى للحشود التي طالبت بتغيير النظام.
 

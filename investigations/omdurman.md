@@ -14,7 +14,7 @@ image: /assets/investigations/omdurman/image19.png
 
 This is an investigation produced by the Sudanese Archive in collaboration with the Berkeley Human Rights Investigation Lab. It uses open-source tools and techniques to verify evidence gathered from videos, images, and/or reports published online. The focus of this report is about violence against protesters in Khartoum’s twin city of Omdurman on June 30, 2019.
 
-<iframe width="760" height="515" src="https://www.youtube.com/embed/9xI5PQ5LAWY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/hjqFEMcidRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Introduction
 
@@ -52,7 +52,7 @@ Night protests and SPA public meetings, along with a general feeling of frustrat
 
 ## What Happened?
 
-On June 30 2019, protesters assembled across Sudan. Twenty-eight cities across Sudan witnessed major [protests](https://www.sudanesearchive.org/en/investigations/june30mapping.html). Our investigation team verified [reports](https://www.sudanesearchive.org/en/investigations/june30mapping.html) of violence in 9 major cities.  The CCSD put the total death toll at  eight, in addition to more than 148 injuries.
+On June 30 2019, protesters assembled across Sudan. Twenty-eight cities across Sudan witnessed major [protests](https://www.sudanesearchive.org/en/investigations/june30mapping.html). Our investigation team verified [reports](https://www.sudanesearchive.org/en/investigations/june30mapping.html) of violence in 9 major cities. The CCSD put the total death toll at nine, in addition to more than 148 injuries.
 
 The city of [Omdurman](https://www.google.com/maps/place/Omdurman,+Sudan/@15.6424713,32.315402,11z/data=!3m1!4b1!4m5!3m4!1s0x168e8bf303b5ade3:0xffa2d3531b1ae48f!8m2!3d15.6475782!4d32.4806894), one of the three cities compromising Khartoum the capital, sits across the river from Khartoum, about 8 kilometers from where the sit-in was held. It witnessed a number of major protests since the start of the uprising in December 2018. Districts such as [Ombada](https://goo.gl/maps/mchVjCwooTP4k8Et7) [Al- Abasiya](https://goo.gl/maps/A1yVTXxRCEoWCKnH6), [Abu-Rof](https://goo.gl/maps/no5qXwus8qvRgrmJ8), [Wad-Nubawi](https://goo.gl/maps/5mcFUeNHmoZf5cGj6), and [Al-Muhandseen](https://goo.gl/maps/hpoSbLCd7BUs3qHu5) were particularly the scene of large assembly of crowds calling for regime change.
 
