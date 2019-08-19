@@ -1,7 +1,7 @@
 ---
 layout: investigation.html
-title: "العنف ضد المتظاهرين في أم درمان بتاريخ 30 يونيو"
-desc: "8 قتلى وأكثر من 50 جريحًا نتيجة للعنف ضد المتظاهرين في أم درمان في 30 يونيو 2019"
+title: "العنف ضد المتظاهرين في أم درمان بتاريخ 30 يونيو 2019"
+desc: "ثمانية قتلى وخمسين جريحًا نتيجة للعنف الممارس ضد المتظاهرين في أم درمان"
 date: 2019-08-19
 image: /assets/investigations/omdurman/image19.png
 ---
@@ -13,6 +13,8 @@ image: /assets/investigations/omdurman/image19.png
 - المسؤول المحتمل: المجلس العسكري الانتقالي (TMC)
 
 صدر هذا التحقيق عن الأرشيف السوداني بالتعاون مع مختبر بيركلي لحقوق الإنسان. يستخدم التحقيق أدوات وتقنيات مفتوحة المصدر للتحقق من الأدلة التي تم جمعها من مقاطع فيديو، صور و/ أو التقارير المنشورة على الإنترنت. يركز هذا التقرير على العنف ضد المتظاهرين في مدينة أم درمان، المدينة التوأم للخرطوم في 30 يونيو 2019.
+
+<iframe width="760" height="515" src="https://www.youtube.com/embed/9xI5PQ5LAWY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## المقدمة
 

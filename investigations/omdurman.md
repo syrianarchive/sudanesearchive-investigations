@@ -14,6 +14,8 @@ image: /assets/investigations/omdurman/image19.png
 
 This is an investigation produced by the Sudanese Archive in collaboration with the Berkeley Human Rights Investigation Lab. It uses open-source tools and techniques to verify evidence gathered from videos, images, and/or reports published online. The focus of this report is about violence against protesters in Khartoum’s twin city of Omdurman on June 30, 2019.
 
+<iframe width="760" height="515" src="https://www.youtube.com/embed/9xI5PQ5LAWY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Introduction
 
 Protests in Sudan have continued for months as people fight for a civilian-led government. They have claimed the lives of [hundreds](https://twitter.com/Sd_Doctors/status/1151962023149936642). In April, after months of protests and a large-scale sit-in held outside the military headquarters, former president Omar Al-Bashir was ousted from power. In his place, a military-led transitional council has taken power. Protesters continued their sit-ins and marches, calling for a civilian-led transitional government. During this period, the leaders of the protests engaged in lengthy negotiations to reach an agreement with the Transitional Military Council (TMC). Talks broke down on May 15, 2019.
@@ -56,7 +58,7 @@ The city of [Omdurman](https://www.google.com/maps/place/Omdurman,+Sudan/@15.642
 
 Marches across the city however were met with severe level of repression. This includes an [incident](http://www.sudantribune.com/spip.php?article66899) in which government security forces attacked medical staff and injured protesters inside Omdurman’s main hospital on 9 January, 2019. In the same month of [January](https://www.dabangasudan.org/en/all-news/article/unprecedented-march-in-omdurman-despite-live-bullets-and-tear-gas), thousands gathered to march towards the national parliament in Omdurman demanding the former president Al-Bashier step down. The rally turned out to be a turning point in the popular uprising. Since then, anti-government rallies gained momentum leading up to June 30 when a huge number of protesters started marching across the city to demand civilian rule. In Omdurman, the [CCSD reported that at least four people were killed](https://www.facebook.com/Sudandoctorscommittee/photos/a.1775635796055662/2358543364431566/?type=3&theater), and more than 50 injured, primarily from gunfire.
 
-###The ‘One million’ March
+### The ‘One million’ March
 
 ![](/assets/investigations/omdurman/image4.png)
 
