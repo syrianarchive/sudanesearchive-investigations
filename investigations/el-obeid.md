@@ -22,7 +22,8 @@ Since the ousting of Sudan’s ex-leader Al-Bashir on 11 April 2019, youth group
 
 Mainly attended by teenagers wearing their school uniforms, the protests started in the early morning. According to the SPA, gunmen dressed in army and Rapid Support Forces (RSF) fatigues fired live ammunition at school children soon after they marched into the city’s main market area. According to the [Central Committee of Sudan Doctors](https://twitter.com/Sd_Doctors/status/1156371124252545024&sa=D&ust=1588240484474000) (CCSD), which is closely associated with pro-democracy protesters, the use of force claimed six lives, three of whom are minors, and left 62 persons wounded, four of whom are in critical conditions.
 
-![](/assets/investigations/Obeid-image36.png)Screenshot of CCSD tweet on the total death toll in El-Obeid
+![](/assets/investigations/Obeid-image36.png)
+*Screenshot of CCSD tweet on the total death toll in El-Obeid*
 
 Wider implications:
 
@@ -46,17 +47,21 @@ Demand for fair retribution
 
 In response to the violence in El-Obeid the SPA drew up plans for [nationwide rallies](https://twitter.com/AssociationSd/status/1156315252298047489&sa=D&ust=1588240484479000). In a series of tweets, the group announced that it was coordinating efforts to stage a million-man march of fair retribution on 1 August alongside the FFC, resistance and neighbourhood committees as well as student groups. The aim of the march was to show solidarity with the victims’ families and demand justice for them. Under the Twitter hashtag “El-Obeid is bleeding”, the [SPA](https://twitter.com/AssociationSd/status/1156579548747710470&sa=D&ust=1588240484480000) identified trajectories and gathering points across Khartoum. Some of [these areas](https://twitter.com/AssociationSd/status/1156673142682730496&sa=D&ust=1588240484480000) include, Al-Barary, Al-Manshiyah, Al-Ta’if, Arkawit and Al-Jirayif in Khartoum east, [as well as](https://twitter.com/AssociationSd/status/1156618652030001153&sa=D&ust=1588240484480000) Wad al-Bashir, Al-Fitayihab, Al-Saliha  and Al-Muhandisin in Omdurman. Hundreds of people turned up to protest in these locations as well as numerous other places..  
 
-![](/assets/investigations/Obeid-image41.png)A tweet released by the SPA on 30 July, announcing coordination with the FFC to launch a protest in the wake of the El-Obeid violence. It also invited neighborhood committees to disseminate info through posters and writing on walls to draw crowds for the march.  
+![](/assets/investigations/Obeid-image41.png)
+
+A tweet released by the SPA on 30 July, announcing coordination with the FFC to launch a protest in the wake of the El-Obeid violence. It also invited neighborhood committees to disseminate info through posters and writing on walls to draw crowds for the march.  
 
 ![](/assets/investigations/Obeid-image40.png)
 
 A post by the SPA announcing “the one- million-man march of fair retribution” on 31 July in coordination with the neighborhood committees of Khartoum East.
 
- ![](/assets/investigations/Obeid-image44.png)Another post by the SPA announcing gathering points including some neighborhoods in Khartoum to protest the El-Obeid killings.  
+ ![](/assets/investigations/Obeid-image44.png)
 
- 
+Another post by the SPA announcing gathering points including some neighborhoods in Khartoum to protest the El-Obeid killings.  
 
-![](/assets/investigations/Obeid-image43.png)A tweet by the SPA sharing the gathering points in Omdurman 
+![](/assets/investigations/Obeid-image43.png)
+
+A tweet by the SPA sharing the gathering points in Omdurman 
 
 Government reaction
 
@@ -84,13 +89,17 @@ Continuing the march, students turn from the gas station towards the street wher
 
 The students change direction into a new street
 
-![](/assets/investigations/Obeid-image49.png)![](/assets/investigations/Obeid-image51.png)
+![](/assets/investigations/Obeid-image49.png)
+
+![](/assets/investigations/Obeid-image51.png)
 
 More clues and markers highlighted in the above Google map
 
 The second part of the video was also posted as a Facebook live video on Monday, 29 July at 9:22 am. In the following view, the video shifts to show a large tree and another building across the street from the gas station, both of which can also be seen on the satellite image above. The time of the video correlates with the position of the sun at that time, which would have the shadows pointing roughly in the direction of the gas station, which can be seen in the images below. 
 
-![](/assets/investigations/Obeid-image34.png)![](/assets/investigations/Obeid-image54.jpg)
+![](/assets/investigations/Obeid-image34.png)
+
+![](/assets/investigations/Obeid-image54.jpg)
 
 Cross-referencing the shadows on SunCalc\*\*
 
@@ -136,7 +145,9 @@ This shot from the video clearly shows a dark screen, tall building with a red r
 
 A closer inspection of the building in the video reveals the presence of a chimney as well as the shape of the roof and the buildings large shadow that indicates it as significantly taller than surroundings structures. These traits match the features of the building seen in satellite imagery.
 
-![](/assets/investigations/Obeid-image27.png)![](/assets/investigations/Obeid-image28.png)
+![](/assets/investigations/Obeid-image27.png)
+
+![](/assets/investigations/Obeid-image28.png)
 
 Left: the chimney atop the building from the video, right: the chimney seen on Google Maps.
 
@@ -148,13 +159,17 @@ The route protesters likely took from north to northwest
 
 The video was posted on Monday, July 29 at 10:29 am. This makes sense given the position of the sun and the shadows seen in the video, both of which have shadows pointing in the direction of the screen and the tall building. 
 
-![](/assets/investigations/Obeid-image29.png)![](/assets/investigations/Obeid-image30.jpg)
+![](/assets/investigations/Obeid-image29.png)
+
+![](/assets/investigations/Obeid-image30.jpg)
 
 SunCalc proves the time the video was posted based on the shadows
 
 The location was geolocated to the same coordinates as the above, right by the El-Obeid’s Great Mosque
 
-![](/assets/investigations/Obeid-image31.png)![](/assets/investigations/Obeid-image30.jpg)
+![](/assets/investigations/Obeid-image31.png)
+
+![](/assets/investigations/Obeid-image30.jpg)
 
 The video shows large numbers of student protestors walking along the street. Left: mosque, building and billboard are outlined
 
@@ -170,7 +185,9 @@ The same video above starts by showing the screen and the tall building with the
   
 A different [video](https://drive.google.com/file/d/1DwCgA_U34-XA8AnPoxldL3Q47Bp2BEg_/view?ts%3D5e21c3fc&sa=D&ust=1588240484495000), shot in the same location reveals a tall teal building, marked on the map in green. The time of the video also correlates with shadow positions they are pointing almost parallel to the teal building (below) which is accurate given the location of the sun at that time of the day. The sun should cast shadows towards the tall building with the chimney, as seen in the video.
 
-![](/assets/investigations/Obeid-image13.jpg)![](/assets/investigations/Obeid-image14.jpg)The student protesters are now advancing towards the teal building as seen in the same live video above.
+![](/assets/investigations/Obeid-image13.jpg)
+
+![](/assets/investigations/Obeid-image14.jpg)The student protesters are now advancing towards the teal building as seen in the same live video above.
 
 Further progress of the march is captured in another [video](https://drive.google.com/file/d/1E-MK1py_IymbkIyzEMV2BHslo7Ue_ItT/view?ts%3D5e21c3fc&sa=D&ust=1588240484496000) posted as a Facebook livestream at 10:53 am on Monday 29 July. The video features the young protesters moving from the location above and arriving at the head office of the Bank of Khartoum.
 
@@ -180,7 +197,9 @@ Bank of Khartoum on Google Maps
 
 Bank of Khartoum, located here: [13.1848269,30.2169491](https://www.google.com/maps/@13.1848269,30.2169491,111m/data%3D!3m1!1e3&sa=D&ust=1588240484497000) and marked in red, can be seen throughout the video with a 24-hour ATM located right in front of it.
 
-![](/assets/investigations/Obeid-image18.png)![](/assets/investigations/Obeid-image19.png)
+![](/assets/investigations/Obeid-image18.png)
+
+![](/assets/investigations/Obeid-image19.png)
 
 Video shot featuring the student protesters in front of the Bank of Khartoum
 
@@ -190,7 +209,9 @@ Another group of students, mostly schoolgirls can be seen approaching the bank f
 
 Video shows a group of schoolgirls arriving at Bank of Khartoum from the alleyway behind the bank
 
-![](/assets/investigations/Obeid-image21.png)![](/assets/investigations/Obeid-image22.png)
+![](/assets/investigations/Obeid-image21.png)
+
+![](/assets/investigations/Obeid-image22.png)
 
 Left: orange building, right: a tall building in the distance and a black screen or billboard
 
