@@ -6,7 +6,7 @@ date: 2020-04-30
 image: /assets/investigations/Obeid-image35.png
 ---
 
-Introduction
+### Introduction
 
 -   Location: El-Obeid
 -   Date: 29 July 2019
@@ -29,7 +29,8 @@ Wider implications:
 
 Widely dubbed in the media as the “El-Obeid massacre”, the death of young students in the city fueled further protests and brought life to a halt. More residents took to the streets in the immediate aftermath to demand justice for the victims. "It is unacceptable that young people are being killed. …Those who committed these crimes must be brought to justice", said [one of the residents](https://www.aljazeera.com/news/2019/07/au-calls-trial-sudan-school-children-killings-190731133842893.html&sa=D&ust=1588240484474000) who joined street rallies to condemn the violence. From 30 July onwards, government authorities decided to shut down the city’s schools and markets. They also imposed a [curfew](https://www.theguardian.com/world/2019/jul/29/four-teenage-protesters-killed-by-security-forces-in-central-sudan&sa=D&ust=1588240484475000) and deployed extra military personnel to contain the growing unrest. The loss of lives in El-Obeid also triggered a nationwide furor, mounting popular pressure on the TMC to hand over power to civilians. The SPA and the opposition Forces for Freedom and Change (FFC) both accused the army and the RSF\* paramilitary group of deliberate use of force against peaceful demonstrators. They subsequently called the public to join street rallies and demand justice for the victims. The two groups [stressed](https://www.sudaneseprofessionals.org/%25D9%2582%25D9%2588%25D9%2589-%25D8%25A5%25D8%25B9%25D9%2584%25D8%25A7%25D9%2586-%25D8%25A7%25D9%2584%25D8%25AD%25D8%25B1%25D9%258A%25D8%25A9-%25D9%2588%25D8%25A7%25D9%2584%25D8%25AA%25D8%25BA%25D9%258A%25D9%258A%25D8%25B1-70/&sa=D&ust=1588240484475000) that the formation of a civilian government was the only way to ensure independent investigations into the killings. The opposition also cancelled scheduled talks with the TMC the following day and dispatched a [delegation](https://www.sudantribune.com/spip.php?article67862&sa=D&ust=1588240484475000) to El-Obeid to assess the situation on the ground. Meanwhile, some voices within the FFC called for an indefinite cancelation of talks and resumption of street protests to overthrow the military rule .
 
-![](/assets/investigations/Obeid-image39.png)<sup>[\[a\]](#cmnt1)[\[b\]](#cmnt2)</sup>
+![](/assets/investigations/Obeid-image39.png)
+<sup>[\[a\]](#cmnt1)[\[b\]](#cmnt2)</sup>
 
 Screenshot of the SPA calling for a rally for a civilian government following El-Obeid deaths
 
