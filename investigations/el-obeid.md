@@ -70,7 +70,7 @@ In response to the events in El-Obeid, the governor of North Kordofan state, Gen
 
 However, the TMC’s spokesman Lieutenant-General Shams al-Din Kabashi mentioned afterwards that nine RSF soldiers were involved in the killings and added that all of them had been [dismissed and detained](https://www.aljazeera.com/news/2019/08/sudan-detains-rsf-members-killing-protesters-190802064916161.html&sa=D&ust=1588240484483000) for trial.
 
-What happened:
+### What happened:
 
 In the early morning hours on Monday, 29 July, 2019, students gathered to protest the lack of public services in El-Obeid. Several live videos posted online shortly after the students took to the streets feature tens of girls and boys wearing school uniforms marching through the Central Business District. As the march grew bigger, government security forces continued to monitor its progress. They were planning to disperse the crowds. Analysis of online evidence, including video materials covering the protest, which document the assemblies of students from the early stages of the protest to later on when security forces were deployed to break up the march.<sup>[\[1\]](#ftnt1)</sup>   
 
@@ -82,7 +82,7 @@ The Sudanese Archive geolocated the footage to these coordinates: [13.1842716,3
 
 ![](/assets/investigations/Obeid-image46.jpg)![](/assets/investigations/Obeid-image50.jpg)
 
-The multi-colored building and the gas station can be seen on Google maps
+*The multi-colored building and the gas station can be seen on Google maps*
 
 Continuing the march, students turn from the gas station towards the street where the multi-colored building is located on its corner:
 
@@ -94,7 +94,7 @@ The students change direction into a new street
 
 ![](/assets/investigations/Obeid-image51.png)
 
-More clues and markers highlighted in the above Google map
+*More clues and markers highlighted in the above Google map*
 
 The second part of the video was also posted as a Facebook live video on Monday, 29 July at 9:22 am. In the following view, the video shifts to show a large tree and another building across the street from the gas station, both of which can also be seen on the satellite image above. The time of the video correlates with the position of the sun at that time, which would have the shadows pointing roughly in the direction of the gas station, which can be seen in the images below. 
 
@@ -102,7 +102,7 @@ The second part of the video was also posted as a Facebook live video on Monda
 
 ![](/assets/investigations/Obeid-image54.jpg)
 
-Cross-referencing the shadows on SunCalc\*\*
+*Cross-referencing the shadows on SunCalc\*\**
 
 Though not visible at this stage, government security forces were seen to be following the progress of the march as the students walked slowly towards the blue building. However, the protesters were abruptly forced to head in the opposite direction as a result of an apparent use of teargas. Some of the female students tried to mitigate the effect of the teargas by covering their faces with headscarves whilst retreating.
 
@@ -110,15 +110,15 @@ Soon after this, the students re-grouped and headed back to the original directi
 
 ![](/assets/investigations/Obeid-image55.png)
 
-Protesters rush back in the opposite direction as the narrator in the video says teargas is being used to disperse them
+*Protesters rush back in the opposite direction as the narrator in the video says teargas is being used to disperse them*
 
 ![](/assets/investigations/Obeid-image57.png)
 
-Students regroup, turn back again and continue the march. They are now facing the large tree
+*Students regroup, turn back again and continue the march. They are now facing the large tree*
 
 ![](/assets/investigations/Obeid-image58.png)
 
-Another scene from the video showing protesters in the space between the two buildings
+*Another scene from the video showing protesters in the space between the two buildings*
 
 Moving on, the protesters now appear in another scene. They assemble in the empty space between two buildings. The video was posted at 9:26am on 29 July 2019.
 
@@ -128,11 +128,11 @@ Images of the buildings and protestors were also captured during the march and 
 
 ![](/assets/investigations/Obeid-image60.png)
 
-The building outlined in green matches the unique building shape of the blue building in the picture taken
+*The building outlined in green matches the unique building shape of the blue building in the picture taken*
 
 ![](/assets/investigations/Obeid-image25.png)
 
-SunCalc proving the video was filmed at 09:26am
+*SunCalc proving the video was filmed at 09:26am*
 
 Shadows in the video match the sun’s position at  09:26am in Al-Obeid on 29 July. The livestream timestamp also corroborates that.
 
@@ -142,7 +142,7 @@ The following [video](https://drive.google.com/file/d/1Dj3hpTLzfuf6GvDjg6kq3Ugr1
 
 ![](/assets/investigations/Obeid-image26.jpg)
 
-This shot from the video clearly shows a dark screen, tall building with a red roof, a blue chimney and a large mosque with a blue-green dome in the background, which was confirmed to be El-Obeid’s Great Mosque
+*This shot from the video clearly shows a dark screen, tall building with a red roof, a blue chimney and a large mosque with a blue-green dome in the background, which was confirmed to be El-Obeid’s Great Mosque*
 
 A closer inspection of the building in the video reveals the presence of a chimney as well as the shape of the roof and the buildings large shadow that indicates it as significantly taller than surroundings structures. These traits match the features of the building seen in satellite imagery.
 
@@ -150,13 +150,13 @@ A closer inspection of the building in the video reveals the presence of a chim
 
 ![](/assets/investigations/Obeid-image28.png)
 
-Left: the chimney atop the building from the video, right: the chimney seen on Google Maps.
+*Left: the chimney atop the building from the video, right: the chimney seen on Google Maps.*
 
 Protesters then moved north then north west from the red circle to the black one, according to the footage and Google Maps.
 
 ![](/assets/investigations/Obeid-image37.png)
 
-The route protesters likely took from north to northwest
+*The route protesters likely took from north to northwest*
 
 The video was posted on Monday, July 29 at 10:29 am. This makes sense given the position of the sun and the shadows seen in the video, both of which have shadows pointing in the direction of the screen and the tall building. 
 
@@ -164,7 +164,7 @@ The video was posted on Monday, July 29 at 10:29 am. This makes sense given the
 
 ![](/assets/investigations/Obeid-image30.jpg)
 
-SunCalc proves the time the video was posted based on the shadows
+*SunCalc proves the time the video was posted based on the shadows*
 
 The location was geolocated to the same coordinates as the above, right by the El-Obeid’s Great Mosque
 
@@ -172,29 +172,33 @@ The location was geolocated to the same coordinates as the above, right by the E
 
 ![](/assets/investigations/Obeid-image30.jpg)
 
-The video shows large numbers of student protestors walking along the street. Left: mosque, building and billboard are outlined
+*The video shows large numbers of student protestors walking along the street. Left: mosque, building and billboard are outlined*
 
 From this location, geolocated by  identifying the dark screen,  protesters proceeded to another scene in a large open space surrounded by several low buildings located here: [13°11'03.1"N 30°13'05.8"E](https://www.google.com/maps/@13.1850027,30.2164268,168m/data%3D!3m1!1e3&sa=D&ust=1588240484494000). The video below features student protestors turning away from the dark screen onto another square. The video was broadcasted live on Facebook on Monday July 29th at 10:32 am. This is consistent with the temporal sequence of the progress of the march. In addition to that, we checked [MapChecking](https://www.mapchecking.com/%2313.1850849,30.2162115;13.1852051,30.2168016;13.1847820,30.2169357;13.1846410,30.2162222;1;13.1847846,30.2172053,18&sa=D&ust=1588240484494000) to see how many people could be in that area  and the tool shows the space could have easily fitted 3,500 people.
 
 ![](/assets/investigations/Obeid-image32.png)
 
-Video shows protesters moving away from the large dark screen
+*Video shows protesters moving away from the large dark screen*
 
 ![](/assets/investigations/Obeid-image33.png)
 
-The same video above starts by showing the screen and the tall building with the chimney, then panning across a                                                   large open space  
+*The same video above starts by showing the screen and the tall building with the chimney, then panning across a large open space*
 
 A different [video](https://drive.google.com/file/d/1DwCgA_U34-XA8AnPoxldL3Q47Bp2BEg_/view?ts%3D5e21c3fc&sa=D&ust=1588240484495000), shot in the same location reveals a tall teal building, marked on the map in green. The time of the video also correlates with shadow positions they are pointing almost parallel to the teal building (below) which is accurate given the location of the sun at that time of the day. The sun should cast shadows towards the tall building with the chimney, as seen in the video.
 
 ![](/assets/investigations/Obeid-image13.jpg)
 
-![](/assets/investigations/Obeid-image14.jpg)The student protesters are now advancing towards the teal building as seen in the same live video above.
+![](/assets/investigations/Obeid-image14.jpg)
+
+*Images from a live video stream*
+
+The student protesters are now advancing towards the teal building as seen in the same live video above.
 
 Further progress of the march is captured in another [video](https://drive.google.com/file/d/1E-MK1py_IymbkIyzEMV2BHslo7Ue_ItT/view?ts%3D5e21c3fc&sa=D&ust=1588240484496000) posted as a Facebook livestream at 10:53 am on Monday 29 July. The video features the young protesters moving from the location above and arriving at the head office of the Bank of Khartoum.
 
 ![](/assets/investigations/Obeid-image16.png)![](/assets/investigations/Obeid-image17.png)
 
-Bank of Khartoum on Google Maps
+*Bank of Khartoum on Google Maps*
 
 Bank of Khartoum, located here: [13.1848269,30.2169491](https://www.google.com/maps/@13.1848269,30.2169491,111m/data%3D!3m1!1e3&sa=D&ust=1588240484497000) and marked in red, can be seen throughout the video with a 24-hour ATM located right in front of it.
 
@@ -202,19 +206,19 @@ Bank of Khartoum, located here: [13.1848269,30.2169491](https://www.google.com/m
 
 ![](/assets/investigations/Obeid-image19.png)
 
-Video shot featuring the student protesters in front of the Bank of Khartoum
+*Video shot featuring the student protesters in front of the Bank of Khartoum*
 
 Another group of students, mostly schoolgirls can be seen approaching the bank from the narrow street on the left.
 
 ![](/assets/investigations/Obeid-image20.png)
 
-Video shows a group of schoolgirls arriving at Bank of Khartoum from the alleyway behind the bank
+*Video shows a group of schoolgirls arriving at Bank of Khartoum from the alleyway behind the bank*
 
 ![](/assets/investigations/Obeid-image21.png)
 
 ![](/assets/investigations/Obeid-image22.png)
 
-Left: orange building, right: a tall building in the distance and a black screen or billboard
+*Left: orange building, right: a tall building in the distance and a black screen or billboard*
 
 Another angle in the video shows an orange building across the street from the circular bank building, marked on the map in blue. A different scene in the video shows a tall building farther away (marked in orange) as well as a black screen on the street (marked in green).
 
@@ -224,11 +228,9 @@ Though the videomaker says on camera that there are snipers atop the Bank of Kha
 
 ![](/assets/investigations/Obeid-image3.png)
 
-The 24-hour aTM machine captured on video
+*The 24-hour ATM machine captured on video*
 
 A scene in this [video](https://www.facebook.com/100006790362218/videos/2395847410651581/&sa=D&ust=1588240484499000) shows students moving away from the teal building and approaching the square at the junction towards the distinctive green-pink building. The video, most likely posted around 11:00 am local time, is consistent with the progress of the march. The green-pink building is located opposite the Sudanese French Bank across the street.
-
- 
 
 Gunshots can also be heard in the below video with people seen fleeing.
 
@@ -238,15 +240,13 @@ Gunshots can also be heard in the below video with people seen fleeing.
 
 ![](/assets/investigations/Obeid-image7.png)
 
-People and protesters fleeing
+*People and protesters fleeing*
 
 The video was most likely filmed from this location: [13°11'10.9"N 30°13'00.2"](https://goo.gl/maps/yYz1P63oQQDKsU3k6&sa=D&ust=1588240484500000)[E](https://goo.gl/maps/yYz1P63oQQDKsU3k6&sa=D&ust=1588240484501000)
 
-![](/assets/investigations/Obeid-image53.jpg)           
+![](/assets/investigations/Obeid-image53.jpg)
 
- 
-
-The building outlined in red can be seen on the Google map
+*The building outlined in red can be seen on the Google map*
 
 According to the shadows below, the below video was likely taken between 11:00 - 11:30am.
 
@@ -254,7 +254,7 @@ According to the shadows below, the below video was likely taken between 11:00 -
 
 ![](/assets/investigations/Obeid-image9.png)
 
-Time confirmed according to SunCalc
+*Time confirmed according to SunCalc*
 
 Towards the end of the video, more than one person can be heard saying, “He killed one. He killed him.”
 
@@ -262,7 +262,7 @@ In this [video](https://www.facebook.com/abdalgader.abdall/videos/29225293713048
 
 ![](/assets/investigations/Obeid-image8.jpg)
 
-Outlining the two opposite buildings on Google Maps
+*Outlining the two opposite buildings on Google Maps*
 
 And according to the shadows, the video was likely taken around 11:30 - 12:50pm.
 
@@ -270,7 +270,7 @@ And according to the shadows, the video was likely taken around 11:30 - 12:50pm.
 
 ![](/assets/investigations/Obeid-image35.png)
 
-By retracing the the shadows on SunCalc, we can confirm the time this video was filmed
+*By retracing the the shadows on SunCalc, we can confirm the time this video was filmed*
 
 The following [video](https://www.facebook.com/abdalgader.abdall/videos/2922394291318348/&sa=D&ust=1588240484506000) shows men in military gear at a close proximity to some unarmed protesters.
 
@@ -280,43 +280,43 @@ Former Bellingcat’s open source investigator and BBC Africa Eye journalist [Be
 
 ![](/assets/investigations/Obeid-image10.png)
 
-Outlining the tree and building on Google Maps
+*Outlining the tree and building on Google Maps*
 
 The next [video](https://www.facebook.com/watch/?v%3D2201092316687163&sa=D&ust=1588240484509000) was also verified and geolocated here: [13°11'07.8"N 30°13'00.5"E](https://goo.gl/maps/RH5CHbPQeYvL3MxM8&sa=D&ust=1588240484509000).
 
 ![](/assets/investigations/Obeid-image45.jpg)
 
-The video as gelocated on the map
+*The video as gelocated on the map*
 
 A similar [video](https://www.facebook.com/watch/?v%3D747464635688798&sa=D&ust=1588240484510000) from a different angle, most likely taken at [11:00 am](https://www.suncalc.org/%23/13.1862,30.2166,17/2019.07.29/11:00/1/1&sa=D&ust=1588240484511000) shows  security forces using a 0
 
 ![](/assets/investigations/Obeid-image24.jpg)
 
-Marks as seen on the map
+*Marks as seen on the map*
 
-Death and injuries
+### Death and injuries
 
 Though it is not captured in footage, injuries and deaths from gunshot wounds reported by the  [CCSD](https://twitter.com/Sd_Doctors/status/1156371124252545024&sa=D&ust=1588240484513000), coincided with the shootings and violence witnessed in El-Obeid on 29 July. Although the injuries and deaths are not captured on video, gunshot sounds are captured. People can also be seen fleeing and yelling that there are shootings.
 
+#### Crowds at El-Obeid Teaching Hospital
+
 ![](/assets/investigations/Obeid-image23.jpg)
 
-Crowds at El-Obeid Teaching Hospital
-
-The crowds at El-Obeid Teaching Hospital (مستشفى الابيض التعليمي‎), located around [13°11'6.42"N, 30°13'19.94"E](https://www.google.com/maps/place/13%25C2%25B011'06.4%2522N%2B30%25C2%25B013'19.9%2522E/@13.1851203,30.2219263,96m/data%3D!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d13.1851167!4d30.2222056&sa=D&ust=1588240484516000).
+*The crowds at El-Obeid Teaching Hospital (مستشفى الابيض التعليمي‎), located around [13°11'6.42"N, 30°13'19.94"E](https://www.google.com/maps/place/13%25C2%25B011'06.4%2522N%2B30%25C2%25B013'19.9%2522E/@13.1851203,30.2219263,96m/data%3D!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d13.1851167!4d30.2222056&sa=D&ust=1588240484516000).*
 
 Based on the position of the sun, the video was filmed live with a timestamp of 12:16 pm; the shadows in the video are relatively short and are to the back right when facing north around 12:00 - 12:30 pm.
 
 ![](/assets/investigations/Obeid-image52.jpg)
 
-A picture of the teaching hospital
+*A picture of the teaching hospital*
 
 ![](/assets/investigations/Obeid-image2.jpg)
 
-Marks compared to Google Maps
+*Marks compared to Google Maps*
 
 ![](/assets/investigations/Obeid-image12.jpg)
 
-Clues outlined on Google Maps
+*Clues outlined on Google Maps*
 
 More buildings in the video can be seen on Google Earth below.
 
@@ -326,13 +326,13 @@ More buildings in the video can be seen on Google Earth below.
 
 ![](/assets/investigations/Obeid-image6.jpg)
 
-Clues as outlined in Google Earth
+*Clues as outlined in Google Earth*
 
 According to a [report](https://www.facebook.com/Sudandoctorscommittee/posts/2379518922334010&sa=D&ust=1588240484522000) released by the CCSD, more than 60 protesters were treated from gunshots at the El-Obeid Teaching Hospital. Some of the victims were pronounced dead shortly after being taken to the hospital. The committee also mentioned in a separate [update](https://www.facebook.com/Sudandoctorscommittee/posts/2380075852278317&sa=D&ust=1588240484523000) that a victim by the name Younis Adam Younis passed away in the ICU at the Police Hospital in Khartoum, after being airlifted for treatment.
 
 The list of victims who died at Al-Obeid Hospital on 29th of July includes a student named Ahmed Abdelwahhab. His funeral, covered in a [live stream video](https://drive.google.com/open?id%3D1GJJa1nltfhHe7vBsdBh2ziKJu3y-lrR-&sa=D&ust=1588240484523000) became a rallying point for angry mourners who marched to the slain student’s home in the Petroleum neighborhood in El-Obeid. The crowds said government security forces have deliberately targeted the victims and called for justice.
 
-The conclusion
+### The conclusion
 
 Through the collection and verification of information provided by online resources, the Sudanese Archive team was able to produce this investigative piece on the crackdown on protesters on 29 July 2019 in the city of El-Obeid. Documentary evidence, including video material, imagery, news reports, social media posts, and others are used to map out the evolution of the protest from its early stages to the crucial point when live ammunition was fired around the Sudanese French Bank. [Six people](http://www.acjps.org/north-kordofan-urgent-call-to-investigate-the-killing-of-six-peaceful-protesters-including-3-minors-in-el-obeid/&sa=D&ust=1588240484525000) were killed, and 62 others were injured in the El-Obeid incident. While the open source documentary evidence indicates the potential involvement of the RSF based on the appearance of individuals in army fatigues similar to those of the RSF and shooters seen atop Toyota 4x4 trucks, vehicles famously used by the RSF, further field investigation will be needed to corroborate this material and identify the perpetrators.
 
@@ -348,4 +348,4 @@ Through the collection and verification of information provided by online resour
 
 [\[b\]](#cmnt_ref2)It was stretched the wrong way. All good now
 
-[\[c\]](#cmnt_ref3)Arabic format ..
+[\[c\]](#cmnt_ref3)Arabic format
