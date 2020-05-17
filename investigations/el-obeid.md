@@ -8,11 +8,11 @@ image: /assets/investigations/Obeid-image35.png
 
 ### Introduction
 
--   Location: El-Obeid
--   Date: 29 July 2019
--   Reported killed: 6
--   Reported injured: 62
--   Potentially responsible: Rapid Support Forces (RSF)
+- Location: El-Obeid
+- Date: 29 July 2019
+- Reported killed: 6
+- Reported injured: 62
+- Potentially responsible: Rapid Support Forces (RSF)
 
 This is an investigation produced by the Sudanese Archive in partnership with UC Berkeley’s Human Rights Center Investigation Lab. We’ve employed open-source tools and techniques to verify gathered evidence, including video footage, published reports and testimonies. This investigation examines how  civilians and students protesting  military rule and calling for a transition to a civilian one were violently attacked by members of the security forces.
 
@@ -74,7 +74,7 @@ What happened:
 
 In the early morning hours on Monday, 29 July, 2019, students gathered to protest the lack of public services in El-Obeid. Several live videos posted online shortly after the students took to the streets feature tens of girls and boys wearing school uniforms marching through the Central Business District. As the march grew bigger, government security forces continued to monitor its progress. They were planning to disperse the crowds. Analysis of online evidence, including video materials covering the protest, which document the assemblies of students from the early stages of the protest to later on when security forces were deployed to break up the march.<sup>[\[1\]](#ftnt1)</sup>   
 
-The following [video](https://drive.google.com/file/d/1E40m6vyoyJDpg2qq8QUvAVPzFsScVVGD/view?ts%3D5e21c3fc&sa=D&ust=1588240484484000) was posted as a Facebook live video on Monday, July 29 at 9:22 am, Sudan’s local time. It features a peaceful gathering of students walking the streets. The students can be heard chanting “no education in harsh conditions”. The scene in this video roughly represents the early stages of the protest. The time of the video is consistent with the position of the sun at that time, which would have the shadows pointing roughly in the direction of the gas station. That gas station can be seen in the images below.
+The following [video](https://youtu.be/ClYs3tRtnk8) was posted as a Facebook live video on Monday, July 29 at 9:22 am, Sudan’s local time. It features a peaceful gathering of students walking the streets. The students can be heard chanting “no education in harsh conditions”. The scene in this video roughly represents the early stages of the protest. The time of the video is consistent with the position of the sun at that time, which would have the shadows pointing roughly in the direction of the gas station. That gas station can be seen in the images below.
 
 The Sudanese Archive geolocated the footage to these coordinates: [13.1842716,30.2194887](https://www.google.com/maps/@13.1842716,30.2194887,176a,35y,270h/data%3D!3m1!1e3&sa=D&ust=1588240484484000), the beginning of the video shows the corner of a blue building, marked in purple on the satellite image, as well as a tall post marked in yellow and a gas station marked in green. The building and the gas station can be seen on Google maps; the blue building is a bank. By cross-referencing its logo (RCB) to banks in Sudan, it was confirmed to be the Real Estate Commercial Bank.      
 
@@ -106,7 +106,7 @@ Cross-referencing the shadows on SunCalc\*\*
 
 Though not visible at this stage, government security forces were seen to be following the progress of the march as the students walked slowly towards the blue building. However, the protesters were abruptly forced to head in the opposite direction as a result of an apparent use of teargas. Some of the female students tried to mitigate the effect of the teargas by covering their faces with headscarves whilst retreating.
 
-Soon after this, the students re-grouped and headed back to the original direction as can be seen in the [video](https://drive.google.com/file/d/1DfnBF6VJit9l_fpk_AeRtA5dzJyvXtQF/view?ts%3D5e21c3fc&sa=D&ust=1588240484487000):
+Soon after this, the students re-grouped and headed back to the original direction as can be seen in the [video](https://youtu.be/GvXQMVoXZko):
 
 ![](/assets/investigations/Obeid-image55.png)
 
@@ -138,7 +138,7 @@ Shadows in the video match the sun’s position at  09:26am in Al-Obeid on 29 J
 
 Further video evidence documents the protests developments and shows students joining their  colleagues at the square between the two buildings referenced above. Live comments were posted by activists reporting a significant presence of security services, including police forces and military personnel around the area. The live comments were later removed due to the removal of the video itself which was retrieved by the Sudanese Archive from the origin. Activists also advised student protesters to remain vigilant. Security forces were reportedly following the crowds at a close range. The protesters start to walk again, they appear to have become more organized, chanting anti-government slogans and clapping.
 
-The following [video](https://drive.google.com/file/d/1Dj3hpTLzfuf6GvDjg6kq3Ugr1Hjc4Got/view?ts%3D5e21c3fc&sa=D&ust=1588240484491000) was streamed live at 10:29 am on 29 July and shows big crowds of schoolboys and girls in motion.
+The following [video](https://youtu.be/b3cSnXdaG14) was streamed live at 10:29 am on 29 July and shows big crowds of schoolboys and girls in motion.
 
 ![](/assets/investigations/Obeid-image26.jpg)
 
@@ -183,14 +183,14 @@ Video shows protesters moving away from the large dark screen
 ![](/assets/investigations/Obeid-image33.png)
 
 The same video above starts by showing the screen and the tall building with the chimney, then panning across a                                                   large open space  
-  
-A different [video](https://drive.google.com/file/d/1DwCgA_U34-XA8AnPoxldL3Q47Bp2BEg_/view?ts%3D5e21c3fc&sa=D&ust=1588240484495000), shot in the same location reveals a tall teal building, marked on the map in green. The time of the video also correlates with shadow positions they are pointing almost parallel to the teal building (below) which is accurate given the location of the sun at that time of the day. The sun should cast shadows towards the tall building with the chimney, as seen in the video.
+
+A different [video](https://youtu.be/Aaply5zYtxI), shot in the same location reveals a tall teal building, marked on the map in green. The time of the video also correlates with shadow positions they are pointing almost parallel to the teal building (below) which is accurate given the location of the sun at that time of the day. The sun should cast shadows towards the tall building with the chimney, as seen in the video.
 
 ![](/assets/investigations/Obeid-image13.jpg)
 
 ![](/assets/investigations/Obeid-image14.jpg)The student protesters are now advancing towards the teal building as seen in the same live video above.
 
-Further progress of the march is captured in another [video](https://drive.google.com/file/d/1E-MK1py_IymbkIyzEMV2BHslo7Ue_ItT/view?ts%3D5e21c3fc&sa=D&ust=1588240484496000) posted as a Facebook livestream at 10:53 am on Monday 29 July. The video features the young protesters moving from the location above and arriving at the head office of the Bank of Khartoum.
+Further progress of the march is captured in another [video](https://youtu.be/dFvIs7WSWbg) posted as a Facebook livestream at 10:53 am on Monday 29 July. The video features the young protesters moving from the location above and arriving at the head office of the Bank of Khartoum.
 
 ![](/assets/investigations/Obeid-image16.png)![](/assets/investigations/Obeid-image17.png)
 
@@ -282,13 +282,13 @@ Former Bellingcat’s open source investigator and BBC Africa Eye journalist [Be
 
 Outlining the tree and building on Google Maps
 
-The next [video](https://www.facebook.com/watch/?v%3D2201092316687163&sa=D&ust=1588240484509000) was also verified and geolocated here: [13°11'07.8"N 30°13'00.5"E](https://goo.gl/maps/RH5CHbPQeYvL3MxM8&sa=D&ust=1588240484509000).
+The next [video](https://youtu.be/1tuFrzRzzKk) was also verified and geolocated here: [13°11'07.8"N 30°13'00.5"E](https://goo.gl/maps/RH5CHbPQeYvL3MxM8&sa=D&ust=1588240484509000).
 
 ![](/assets/investigations/Obeid-image45.jpg)
 
 The video as gelocated on the map
 
-A similar [video](https://www.facebook.com/watch/?v%3D747464635688798&sa=D&ust=1588240484510000) from a different angle, most likely taken at [11:00 am](https://www.suncalc.org/%23/13.1862,30.2166,17/2019.07.29/11:00/1/1&sa=D&ust=1588240484511000) shows  security forces using a 0
+A similar [video](https://youtu.be/ISIlW28Ip2I) from a different angle, most likely taken at [11:00 am](https://www.suncalc.org/%23/13.1862,30.2166,17/2019.07.29/11:00/1/1&sa=D&ust=1588240484511000) shows  security forces using a 0
 
 ![](/assets/investigations/Obeid-image24.jpg)
 
@@ -330,7 +330,7 @@ Clues as outlined in Google Earth
 
 According to a [report](https://www.facebook.com/Sudandoctorscommittee/posts/2379518922334010&sa=D&ust=1588240484522000) released by the CCSD, more than 60 protesters were treated from gunshots at the El-Obeid Teaching Hospital. Some of the victims were pronounced dead shortly after being taken to the hospital. The committee also mentioned in a separate [update](https://www.facebook.com/Sudandoctorscommittee/posts/2380075852278317&sa=D&ust=1588240484523000) that a victim by the name Younis Adam Younis passed away in the ICU at the Police Hospital in Khartoum, after being airlifted for treatment.
 
-The list of victims who died at Al-Obeid Hospital on 29th of July includes a student named Ahmed Abdelwahhab. His funeral, covered in a [live stream video](https://drive.google.com/open?id%3D1GJJa1nltfhHe7vBsdBh2ziKJu3y-lrR-&sa=D&ust=1588240484523000) became a rallying point for angry mourners who marched to the slain student’s home in the Petroleum neighborhood in El-Obeid. The crowds said government security forces have deliberately targeted the victims and called for justice.
+The list of victims who died at Al-Obeid Hospital on 29th of July includes a student named Ahmed Abdelwahhab. His funeral, covered in a [live stream video](https://youtu.be/wzYy39GwYCc) became a rallying point for angry mourners who marched to the slain student’s home in the Petroleum neighborhood in El-Obeid. The crowds said government security forces have deliberately targeted the victims and called for justice.
 
 The conclusion
 
