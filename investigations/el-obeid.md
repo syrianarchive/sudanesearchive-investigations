@@ -30,17 +30,12 @@ Mainly attended by teenagers wearing their school uniforms, the protests starte
 Widely dubbed in the media as the “El-Obeid massacre”, the death of young students in the city fueled further protests and brought life to a halt. More residents took to the streets in the immediate aftermath to demand justice for the victims. "It is unacceptable that young people are being killed. …Those who committed these crimes must be brought to justice", said [one of the residents](https://www.aljazeera.com/news/2019/07/au-calls-trial-sudan-school-children-killings-190731133842893.html&sa=D&ust=1588240484474000) who joined street rallies to condemn the violence. From 30 July onwards, government authorities decided to shut down the city’s schools and markets. They also imposed a [curfew](https://www.theguardian.com/world/2019/jul/29/four-teenage-protesters-killed-by-security-forces-in-central-sudan&sa=D&ust=1588240484475000) and deployed extra military personnel to contain the growing unrest. The loss of lives in El-Obeid also triggered a nationwide furor, mounting popular pressure on the TMC to hand over power to civilians. The SPA and the opposition Forces for Freedom and Change (FFC) both accused the army and the RSF\* paramilitary group of deliberate use of force against peaceful demonstrators. They subsequently called the public to join street rallies and demand justice for the victims. The two groups [stressed](https://www.sudaneseprofessionals.org/%25D9%2582%25D9%2588%25D9%2589-%25D8%25A5%25D8%25B9%25D9%2584%25D8%25A7%25D9%2586-%25D8%25A7%25D9%2584%25D8%25AD%25D8%25B1%25D9%258A%25D8%25A9-%25D9%2588%25D8%25A7%25D9%2584%25D8%25AA%25D8%25BA%25D9%258A%25D9%258A%25D8%25B1-70/&sa=D&ust=1588240484475000) that the formation of a civilian government was the only way to ensure independent investigations into the killings. The opposition also cancelled scheduled talks with the TMC the following day and dispatched a [delegation](https://www.sudantribune.com/spip.php?article67862&sa=D&ust=1588240484475000) to El-Obeid to assess the situation on the ground. Meanwhile, some voices within the FFC called for an indefinite cancelation of talks and resumption of street protests to overthrow the military rule .
 
 ![](/assets/investigations/Obeid-image39.png)
-<sup>[\[a\]](#cmnt1)[\[b\]](#cmnt2)</sup>
 
 *Screenshot of the SPA calling for a rally for a civilian government following El-Obeid deaths*
 
 On 30 July 2019, from the afternoon and throughout the night, numerous rallies were held in more than 20 cities across Sudan, including the capital city of Khartoum. Hundreds of youths and schoolchildren in uniforms [participated](https://www.nytimes.com/2019/07/30/world/africa/sudan-protest-killing.html&sa=D&ust=1588240484476000) in angry protests to denounce the bloody crackdown in El-Obeid. Waving Sudanese flags, protesters [rushed](https://www.aljazeera.com/news/2019/08/sudan-protesters-condemn-killings-transition-talks-190801151729399.html&sa=D&ust=1588240484477000) to the streets with some chanting “killing a student is like killing a nation" and "the people want to fight for the rights of martyrs".  Some protesters placed roadblocks and set fire to tires to express their anger, "we will protest until we obtain justice or we bring down the regime”, said a protester who took part in a gathering in .Khartoum.. <sup>[\[c\]](#cmnt3)</sup>
 
 Similar rallies also took place in other [Sudanese cities](https://www.aa.com.tr/ar/%25D8%25A7%25D9%2584%25D8%25AF%25D9%2588%25D9%2584-%25D8%25A7%25D9%2584%25D8%25B9%25D8%25B1%25D8%25A8%25D9%258A%25D8%25A9/%25D8%25A7%25D9%2584%25D8%25B3%25D9%2588%25D8%25AF%25D8%25A7%25D9%2586-%25D8%25BA%25D8%25AF%25D8%25A7%25D8%25A9-%25D8%25A3%25D8%25AD%25D8%25AF%25D8%25A7%25D8%25AB-%25D8%25A7%25D9%2584%25D8%25A3%25D8%25A8%25D9%258A%25D8%25B6-%25D9%2585%25D8%25B8%25D8%25A7%25D9%2587%25D8%25B1%25D8%25A7%25D8%25AA-%25D8%25BA%25D8%25A7%25D8%25B6%25D8%25A8%25D8%25A9-%25D9%2588%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D9%2587%25D8%25A7%25D9%2586-%25D9%258A%25D8%25AA%25D8%25A3%25D8%25B3%25D9%2581-/1544974&sa=D&ust=1588240484477000), including En-Nuhud the second largest city after El-Obeid in North Kordofan, Wad Madani in central Sudan, Ad-Damazin, the capital of Blue Nile state, Port Sudan and Kassala in eastern Sudan.
-
-![](/assets/investigations/Obeid-image38.jpg)
-
-*Two protesters in the Sudanese capital Khartoum hold banners reading ‘El-Obeid is bleeding’ and ‘killing student is like killing a nation’ during a rally against the killings - Photo credit: AFP*
 
 The violence in El-Obeid also drew regional and international condemnation. The African Union envoy has called for a [quick trial](https://www.aljazeera.com/news/2019/07/au-calls-trial-sudan-school-children-killings-190731133842893.html&sa=D&ust=1588240484478000) of perpetrators linked to killings. UNICEF also [denounced](https://www.unicef.org/press-releases/no-child-should-be-buried-their-school-uniform&sa=D&ust=1588240484479000) the deadly use of force and demanded the Sudanese authorities investigate and hold all those involved responsible for their heinous actions.
 
@@ -88,7 +83,7 @@ Continuing the march, students turn from the gas station towards the street wher
 
 ![](/assets/investigations/Obeid-image48.png)
 
-The students change direction into a new street
+*The students change direction into a new street*
 
 ![](/assets/investigations/Obeid-image49.png)
 
@@ -286,9 +281,9 @@ The next [video](https://www.facebook.com/watch/?v%3D2201092316687163&sa=D&ust=1
 
 ![](/assets/investigations/Obeid-image45.jpg)
 
-*The video as gelocated on the map*
+*The video as geolocated on the map*
 
-A similar [video](https://www.facebook.com/watch/?v%3D747464635688798&sa=D&ust=1588240484510000) from a different angle, most likely taken at [11:00 am](https://www.suncalc.org/%23/13.1862,30.2166,17/2019.07.29/11:00/1/1&sa=D&ust=1588240484511000) shows  security forces using a 0
+A similar [video](https://www.facebook.com/watch/?v%3D747464635688798&sa=D&ust=1588240484510000) from a different angle, most likely taken at [11:00 am](https://www.suncalc.org/%23/13.1862,30.2166,17/2019.07.29/11:00/1/1&sa=D&ust=1588240484511000) shows security forces using machine guns.
 
 ![](/assets/investigations/Obeid-image24.jpg)
 
@@ -339,13 +334,3 @@ Through the collection and verification of information provided by online resour
 \*The RSF were given a "[regular force](https://www.google.com/search?q%3Dwho%2Bare%2Brsf%2Bsudan%26rlz%3D1C1SQJL_enEG826EG826%26oq%3Dwho%2Bare%2Brsf%2Bsudan%26aqs%3Dchrome..69i57j0j69i60j69i61.5870j1j7%26sourceid%3Dchrome%26ie%3DUTF-8&sa=D&ust=1588240484526000)" status in 2015. Two years later, they were assigned under the Sudanese military forces, which reported directly to former President Omar al-Bashir.
 
 \*\*SunCalc is an open-source tool that helps investigators as well as photographers and other professionals calculate sun movement and other related variables and conclude timing and vice versa, using an interactive map.
-
-------------------------------------------------------------------------
-
-[\[1\]](#ftnt_ref1) 
-
-[\[a\]](#cmnt_ref1)The picture is stretched. Maybe make it smaller so the stretching goes back to normal? I tried to fix it.
-
-[\[b\]](#cmnt_ref2)It was stretched the wrong way. All good now
-
-[\[c\]](#cmnt_ref3)Arabic format
