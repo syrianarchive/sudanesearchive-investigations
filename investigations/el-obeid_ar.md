@@ -286,9 +286,6 @@ image: /assets/investigations/Obeid-image35.png
 
                                                                                             ![](images/image2.jpg)
 
-   
-
-
 علامات مقارنة بخرائط غوغل
 
 ![](images/image12.jpg)
