@@ -34,9 +34,12 @@ Widely dubbed in the media as the “El-Obeid massacre”, the death of young st
 
 *Screenshot of the SPA calling for a rally for a civilian government following El-Obeid deaths*
 
+
 On 30 July 2019, from the afternoon and throughout the night, numerous rallies were held in more than 20 cities across Sudan, including the capital city of Khartoum. Hundreds of youths and schoolchildren in uniforms [participated](https://www.nytimes.com/2019/07/30/world/africa/sudan-protest-killing.html) in angry protests to denounce the bloody crackdown in El-Obeid. Waving Sudanese flags, protesters [rushed](https://www.aljazeera.com/news/2019/08/sudan-protesters-condemn-killings-transition-talks-190801151729399.html) to the streets with some chanting “killing a student is like killing a nation" and "the people want to fight for the rights of martyrs".  Some protesters placed roadblocks and set fire to tires to express their anger, "we will protest until we obtain justice or we bring down the regime”, said a protester who took part in a gathering in Khartoum.
 
+
 Similar rallies also took place in other [Sudanese cities](https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%BA%D8%AF%D8%A7%D8%A9-%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D8%A7%D9%84%D8%A3%D8%A8%D9%8A%D8%B6-%D9%85%D8%B8%D8%A7%D9%87%D8%B1%D8%A7%D8%AA-%D8%BA%D8%A7%D8%B6%D8%A8%D8%A9-%D9%88%D8%A7%D9%84%D8%A8%D8%B1%D9%87%D8%A7%D9%86-%D9%8A%D8%AA%D8%A3%D8%B3%D9%81-/1544974), including En-Nuhud the second largest city after El-Obeid in North Kordofan, Wad Madani in central Sudan, Ad-Damazin, the capital of Blue Nile state, Port Sudan and Kassala in eastern Sudan.
+
 
 The violence in El-Obeid also drew regional and international condemnation. The African Union envoy has called for a [quick trial](https://www.aljazeera.com/news/2019/07/au-calls-trial-sudan-school-children-killings-190731133842893.html) of perpetrators linked to killings. UNICEF also [denounced](https://www.unicef.org/press-releases/no-child-should-be-buried-their-school-uniform) the deadly use of force and demanded the Sudanese authorities investigate and hold all those involved responsible for their heinous actions.
 
@@ -287,6 +290,7 @@ The next [video](https://www.facebook.com/watch/?v=2201092316687163) was also v
 ![](/assets/investigations/Obeid-image45.jpg)
 
 *The video as geolocated on the map*
+
 
 A similar [video](https://www.facebook.com/watch/?v=747464635688798) from a different angle, most likely taken at [11:00 am](https://www.suncalc.org/#/13.1862,30.2166,17/2019.07.29/11:00/1/1) shows security forces using machine guns.
 
