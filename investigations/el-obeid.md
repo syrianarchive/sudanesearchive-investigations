@@ -1,8 +1,8 @@
 ---
 layout: investigation.html
-title: "El-Obeid Final Draft"
-desc: "A report documenting the events on July 29, 2019 in El-Obeid, Sudan"
-date: 2020-05-15
+title: "Violence against protesters in El-Obeid on July 29, 2019"
+desc: "More than 60 injured and at least 6 killed during protests"
+date: 2020-05-19
 image: /assets/investigations/Obeid-image35.png
 ---
 
@@ -23,6 +23,7 @@ Since the ousting of Sudan’s ex-leader Al-Bashir on 11 April 2019, youth group
 Mainly attended by teenagers wearing their school uniforms, the protests started in the early morning. According to the SPA, gunmen dressed in army and Rapid Support Forces (RSF) fatigues fired live ammunition at school children soon after they marched into the city’s main market area. According to the [Central Committee of Sudan Doctors](https://twitter.com/Sd_Doctors/status/1156371124252545024) (CCSD), which is closely associated with pro-democracy protesters, the use of force claimed six lives, three of whom are minors, and left 62 persons wounded, four of whom are in critical conditions.
 
 ![](/assets/investigations/Obeid-image36.png)
+
 *Screenshot of CCSD tweet on the total death toll in El-Obeid*
 
 ### Wider implications:
@@ -75,7 +76,9 @@ The Sudanese Archive geolocated the footage to these coordinates: [13.1842716,3
 
 ![](/assets/investigations/Obeid-image47.png)
 
-![](/assets/investigations/Obeid-image46.jpg)![](/assets/investigations/Obeid-image50.jpg)
+![](/assets/investigations/Obeid-image46.jpg)
+
+![](/assets/investigations/Obeid-image50.jpg)
 
 *The multi-colored building and the gas station can be seen on Google maps*
 
@@ -145,7 +148,7 @@ A closer inspection of the building in the video reveals the presence of a chim
 
 ![](/assets/investigations/Obeid-image28.png)
 
-*Left: the chimney atop the building from the video, right: the chimney seen on Google Maps.*
+*First image: the chimney atop the building from the video, second image: the chimney seen on Google Maps.*
 
 Protesters then moved north then north west from the red circle to the black one, according to the footage and Google Maps.
 
@@ -167,7 +170,7 @@ The location was geolocated to the same coordinates as the above, right by the E
 
 ![](/assets/investigations/Obeid-image30.jpg)
 
-*The video shows large numbers of student protestors walking along the street. Left: mosque, building and billboard are outlined*
+*The video shows large numbers of student protestors walking along the street. First image: mosque, building and billboard are outlined*
 
 From this location, geolocated by  identifying the dark screen,  protesters proceeded to another scene in a large open space surrounded by several low buildings located here: [13°11'03.1"N 30°13'05.8"E](https://www.google.com/maps/@13.1850027,30.2164268,168m/data%3D!3m1!1e3). The video below features student protestors turning away from the dark screen onto another square. The video was broadcasted live on Facebook on Monday July 29th at 10:32 am. This is consistent with the temporal sequence of the progress of the march. In addition to that, we checked [MapChecking](https://www.mapchecking.com/%2313.1850849,30.2162115;13.1852051,30.2168016;13.1847820,30.2169357;13.1846410,30.2162222;1;13.1847846,30.2172053,18) to see how many people could be in that area  and the tool shows the space could have easily fitted 3,500 people.
 
@@ -211,9 +214,11 @@ Another group of students, mostly schoolgirls can be seen approaching the bank f
 
 *Video shows a group of schoolgirls arriving at Bank of Khartoum from the alleyway behind the bank*
 
-![](/assets/investigations/Obeid-image21.png)![](/assets/investigations/Obeid-image22.png)
+![](/assets/investigations/Obeid-image21.png)
 
-*Left: orange building, right: a tall building in the distance and a black screen or billboard*
+![](/assets/investigations/Obeid-image22.png)
+
+*First image: orange building, second image: a tall building in the distance and a black screen or billboard*
 
 Another angle in the video shows an orange building across the street from the circular bank building, marked on the map in blue. A different scene in the video shows a tall building farther away (marked in orange) as well as a black screen on the street (marked in green).
 
