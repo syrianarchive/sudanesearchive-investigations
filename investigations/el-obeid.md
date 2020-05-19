@@ -61,7 +61,7 @@ In response to the violence in El-Obeid the SPA drew up plans for [nationwide ra
 
 #### Government reaction
 
-In response to the events in El-Obeid, the governor of North Kordofan state, General Al-Sadiq al-Tayyib Abdallah, blamed what he called “infiltrators” and rogue elements for the violence. He said in [statements](https://www.youtube.com/watch?v%3D7mGA-2BuxNw) to the pro-state TV channel Al-Shrooq that infiltrators had exploited the peaceful march and caused chaos. He further accused them of looting property from the local  branch of  the Bank of Khartoum and making similar attempts to plunder the Sudanese French Bank in the city. Following the governor’s statements, the TMC leader Abd al-Fattah al-Burhan, described the killing of students in El-Obeid as a “sad and regrettable” loss of lives. The TMC further disclosed that it had identified [seven members](https://www.alhurra.com/sudan/2019/08/01/%D8%AC%D9%86%D8%B1%D8%A7%D9%84-%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A-%D9%8A%D8%AA%D9%87%D9%85-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9-%D8%A8%D9%82%D8%AA%D9%84-%D8%B7%D9%84%D8%A8%D8%A9-%D8%A7%D9%84%D8%A3%D8%A8%D9%8A%D8%B6%C2%A0) of the RSF who were involved in the deadly shooting. According to statements by the chairman of the Security and Defense Committee in the TMC, Jamal al-Din Omar, the seven members of the force were on duty guarding the Sudanese French Bank (a site of major incidents) during the protest. He said they opened fire on the protesters causing death and injuries. He added that the alleged culprits were subsequently [dismissed](https://www.youtube.com/watch?v%3DhwQgGOZhqt8&sa=D&ust=1588240484482000) from the RSF and handed over to the public prosecutor in El-Obeid to stand trial.
+In response to the events in El-Obeid, the governor of North Kordofan state, General Al-Sadiq al-Tayyib Abdallah, blamed what he called “infiltrators” and rogue elements for the violence. He said in [statements](https://www.youtube.com/watch?v=7mGA-2BuxNw) to the pro-state TV channel Al-Shrooq that infiltrators had exploited the peaceful march and caused chaos. He further accused them of looting property from the local  branch of  the Bank of Khartoum and making similar attempts to plunder the Sudanese French Bank in the city. Following the governor’s statements, the TMC leader Abd al-Fattah al-Burhan, described the killing of students in El-Obeid as a “sad and regrettable” loss of lives. The TMC further disclosed that it had identified [seven members](https://www.alhurra.com/sudan/2019/08/01/%D8%AC%D9%86%D8%B1%D8%A7%D9%84-%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A-%D9%8A%D8%AA%D9%87%D9%85-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%AF%D8%B9%D9%85-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9-%D8%A8%D9%82%D8%AA%D9%84-%D8%B7%D9%84%D8%A8%D8%A9-%D8%A7%D9%84%D8%A3%D8%A8%D9%8A%D8%B6%C2%A0) of the RSF who were involved in the deadly shooting. According to statements by the chairman of the Security and Defense Committee in the TMC, Jamal al-Din Omar, the seven members of the force were on duty guarding the Sudanese French Bank (a site of major incidents) during the protest. He said they opened fire on the protesters causing death and injuries. He added that the alleged culprits were subsequently [dismissed](https://www.youtube.com/watch?v=hwQgGOZhqt8) from the RSF and handed over to the public prosecutor in El-Obeid to stand trial.
 
 However, the TMC’s spokesman Lieutenant-General Shams al-Din Kabashi mentioned afterwards that nine RSF soldiers were involved in the killings and added that all of them had been [dismissed and detained](https://www.aljazeera.com/news/2019/08/sudan-detains-rsf-members-killing-protesters-190802064916161.html) for trial.
 
@@ -269,7 +269,7 @@ And according to the shadows, the video was likely taken around 11:30 - 12:50pm.
 
 The following [video](https://www.facebook.com/abdalgader.abdall/videos/2922394291318348) shows men in military gear at a close proximity to some unarmed protesters.
 
-Former Bellingcat’s open source investigator and BBC Africa Eye journalist [Benjamin Strick](https://twitter.com/BenDoBrown/status/1155862250885984256) geolocated the video to this location:[ 13°11'10.6"N 30°12'59.4"E](https://goo.gl/maps/avAm79Jkm5X3oxAB8). We corroborated this geolocation as shown below and it seems to have been taken around 10:15 - 11:10am according to [SunCalc](https://www.suncalc.org/%23/13.1862,30.2165,17/2019.07.29/11:08/1/1). The location is 260 meters from the Bank of Khartoum, according to Google maps.
+Former Bellingcat’s open source investigator and BBC Africa Eye journalist [Benjamin Strick](https://twitter.com/BenDoBrown/status/1155862250885984256) geolocated the video to this location:[ 13°11'10.6"N 30°12'59.4"E](https://goo.gl/maps/avAm79Jkm5X3oxAB8). We corroborated this geolocation as shown below and it seems to have been taken around 10:15 - 11:10am according to [SunCalc](https://www.suncalc.org/#/13.1862,30.2165,17/2019.07.29/11:08/1/1). The location is 260 meters from the Bank of Khartoum, according to Google maps.
 
 ![](/assets/investigations/Obeid-image11.png)
 
@@ -277,13 +277,13 @@ Former Bellingcat’s open source investigator and BBC Africa Eye journalist [Be
 
 *Outlining the tree and building on Google Maps*
 
-The next [video](https://www.facebook.com/watch/?v%3D2201092316687163) was also verified and geolocated here: [13°11'07.8"N 30°13'00.5"E](https://goo.gl/maps/RH5CHbPQeYvL3MxM8).
+The next [video](https://www.facebook.com/watch/?v=2201092316687163) was also verified and geolocated here: [13°11'07.8"N 30°13'00.5"E](https://goo.gl/maps/RH5CHbPQeYvL3MxM8).
 
 ![](/assets/investigations/Obeid-image45.jpg)
 
 *The video as geolocated on the map*
 
-A similar [video](https://www.facebook.com/watch/?v%3D747464635688798) from a different angle, most likely taken at [11:00 am](https://www.suncalc.org/%23/13.1862,30.2166,17/2019.07.29/11:00/1/1) shows security forces using machine guns.
+A similar [video](https://www.facebook.com/watch/?v=747464635688798) from a different angle, most likely taken at [11:00 am](https://www.suncalc.org/#/13.1862,30.2166,17/2019.07.29/11:00/1/1) shows security forces using machine guns.
 
 ![](/assets/investigations/Obeid-image24.jpg)
 
@@ -331,6 +331,6 @@ The list of victims who died at Al-Obeid Hospital on 29th of July includes a stu
 
 Through the collection and verification of information provided by online resources, the Sudanese Archive team was able to produce this investigative piece on the crackdown on protesters on 29 July 2019 in the city of El-Obeid. Documentary evidence, including video material, imagery, news reports, social media posts, and others are used to map out the evolution of the protest from its early stages to the crucial point when live ammunition was fired around the Sudanese French Bank. [Six people](http://www.acjps.org/north-kordofan-urgent-call-to-investigate-the-killing-of-six-peaceful-protesters-including-3-minors-in-el-obeid/) were killed, and 62 others were injured in the El-Obeid incident. While the open source documentary evidence indicates the potential involvement of the RSF based on the appearance of individuals in army fatigues similar to those of the RSF and shooters seen atop Toyota 4x4 trucks, vehicles famously used by the RSF, further field investigation will be needed to corroborate this material and identify the perpetrators.
 
-\*The RSF were given a "[regular force](https://www.google.com/search?q%3Dwho%2Bare%2Brsf%2Bsudan%26rlz%3D1C1SQJL_enEG826EG826%26oq%3Dwho%2Bare%2Brsf%2Bsudan%26aqs%3Dchrome..69i57j0j69i60j69i61.5870j1j7%26sourceid%3Dchrome%26ie%3DUTF-8&sa=D&ust=1588240484526000)" status in 2015. Two years later, they were assigned under the Sudanese military forces, which reported directly to former President Omar al-Bashir.
+\*The RSF were given a "[regular force](https://www.aljazeera.com/news/2019/06/sudan-rsf-commander-hemeti-190605223433929.html)" status in 2015. Two years later, they were assigned under the Sudanese military forces, which reported directly to former President Omar al-Bashir.
 
 \*\*SunCalc is an open-source tool that helps investigators as well as photographers and other professionals calculate sun movement and other related variables and conclude timing and vice versa, using an interactive map.
