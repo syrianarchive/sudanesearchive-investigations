@@ -16,7 +16,7 @@ image: /assets/investigations/Obeid-image35.png
 
 This is an investigation produced by the Sudanese Archive in partnership with UC Berkeley’s Human Rights Center Investigation Lab. We’ve employed open-source tools and techniques to verify gathered evidence, including video footage, published reports and testimonies. This investigation examines how  civilians and students protesting  military rule and calling for a transition to a civilian one were violently attacked by members of the security forces.
 
-On 29 July 2019, secondary school students in the city of El-Obeid, the capital of North Kordofan, staged a protest over a lack of vital services and the rundown conditions in the city. The students came out from several institutions, marching through the main market area protesting against the lack of water, electricity and public transport. In their chanting throughout the rally, the protesters also made two demands: a speedy transition of power to civilian rule, and justice for the pro-democracy protesters killed outside the army base in Khartoum on [3 June 2019](https://www.hrw.org/report/2019/11/17/they-were-shouting-kill-them/sudans-violent-crackdown-protesters-khartoum&sa=D&ust=1588240484472000).
+On 29 July 2019, secondary school students in the city of El-Obeid, the capital of North Kordofan, staged a protest over a lack of vital services and the rundown conditions in the city. The students came out from several institutions, marching through the main market area protesting against the lack of water, electricity and public transport. In their chanting throughout the rally, the protesters also made two demands: a speedy transition of power to civilian rule, and justice for the pro-democracy protesters killed outside the army base in Khartoum on [3 June 2019](https://www.hrw.org/report/2019/11/17/they-were-shouting-kill-them/sudans-violent-crackdown-protesters-khartoum).
 
 Since the ousting of Sudan’s ex-leader Al-Bashir on 11 April 2019, youth groups and opposition activists have organized a series of nationwide rallies to step up pressure on the Transitional Military Council  (TMC) to speed up power transition. Unlike most of the countrywide demonstrations which were largely coordinated by the Sudanese Professionals Association (SPA), El-Obeid's protests on 29 July appeared to be impromptu. They took place just one day before the leaders of the civilian opposition and army generals from the TMC were set to renew talks on [power sharing](https://www.voanews.com/africa/sudan-general-meets-sisi-cairo-power-talks-set-resume) during the transitional period. The two sides had already signed a deal on 17 July setting out the transition’s institutions and the creation of a joint civilian-military council. However, before finally reaching a power-sharing agreement on 17 August, talks repeatedly stalled over disagreement on the proportions of representation in the sovereign council which has now been formed to govern the country. The two sides also disagreed on the constitutional declaration that is supposed to define the structures of the transitional period, redeployment of forces and immunity for army generals who were linked to crimes against protesters. The El-Obeid protests thus erupted in a period of growing distrust and heightened tension between the civilian-led opposition and the military junta.
 
@@ -191,7 +191,9 @@ The student protesters are now advancing towards the teal building as seen in th
 
 Further progress of the march is captured in another [video](https://drive.google.com/file/d/1E-MK1py_IymbkIyzEMV2BHslo7Ue_ItT/view?ts%3D5e21c3fc) posted as a Facebook livestream at 10:53 am on Monday 29 July. The video features the young protesters moving from the location above and arriving at the head office of the Bank of Khartoum.
 
-![](/assets/investigations/Obeid-image16.png)![](/assets/investigations/Obeid-image17.png)
+![](/assets/investigations/Obeid-image16.png)
+
+![](/assets/investigations/Obeid-image17.png)
 
 *Bank of Khartoum on Google Maps*
 
@@ -209,9 +211,7 @@ Another group of students, mostly schoolgirls can be seen approaching the bank f
 
 *Video shows a group of schoolgirls arriving at Bank of Khartoum from the alleyway behind the bank*
 
-![](/assets/investigations/Obeid-image21.png)
-
-![](/assets/investigations/Obeid-image22.png)
+![](/assets/investigations/Obeid-image21.png)![](/assets/investigations/Obeid-image22.png)
 
 *Left: orange building, right: a tall building in the distance and a black screen or billboard*
 
