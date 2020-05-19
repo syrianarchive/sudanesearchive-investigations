@@ -6,7 +6,7 @@ date: 2020-05-17
 image: /assets/investigations/Obeid-image35.png
 ---
 
-### مقدمه
+### مقدمة 
 
 - الموقع: الأبيض
 - التاريخ: 29 يوليو 2019
