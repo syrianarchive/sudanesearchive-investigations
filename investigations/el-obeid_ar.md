@@ -3,7 +3,7 @@ layout: investigation.html
 title: تقرير العنف ضد المتظاهرين بالأبيض 29 يوليو 2019
 desc: "أكثر من 60 مصاب و 6 قتلى"
 date: 2020-05-19
-image: /assets/investigations/Obeid-image35.png
+image: /assets/investigations/Obeid-image62.png
 ---
 
 ### مقدمة
