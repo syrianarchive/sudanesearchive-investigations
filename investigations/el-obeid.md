@@ -33,7 +33,6 @@ Mainly attended by teenagers wearing their school uniforms, the protests starte
 Widely dubbed in the media as the “El-Obeid massacre”, the death of young students in the city fueled further protests and brought life to a halt. More residents took to the streets in the immediate aftermath to demand justice for the victims. "It is unacceptable that young people are being killed. …Those who committed these crimes must be brought to justice", said [one of the residents](https://www.aljazeera.com/news/2019/07/au-calls-trial-sudan-school-children-killings-190731133842893.html) who joined street rallies to condemn the violence. From 30 July onwards, government authorities decided to shut down the city’s schools and markets. They also imposed a [curfew](https://www.theguardian.com/world/2019/jul/29/four-teenage-protesters-killed-by-security-forces-in-central-sudan) and deployed extra military personnel to contain the growing unrest. The loss of lives in El-Obeid also triggered a nationwide furor, mounting popular pressure on the TMC to hand over power to civilians. The SPA and the opposition Forces for Freedom and Change (FFC) both accused the army and the RSF\* paramilitary group of deliberate use of force against peaceful demonstrators. They subsequently called the public to join street rallies and demand justice for the victims. The two groups [stressed](https://www.sudaneseprofessionals.org/%D9%82%D9%88%D9%89-%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-70/) that the formation of a civilian government was the only way to ensure independent investigations into the killings. The opposition also cancelled scheduled talks with the TMC the following day and dispatched a [delegation](https://www.sudantribune.com/spip.php?article67862) to El-Obeid to assess the situation on the ground. Meanwhile, some voices within the FFC called for an indefinite cancelation of talks and resumption of street protests to overthrow the military rule .
 
 ![](/assets/investigations/Obeid-image39.png)
-
 *Screenshot of the SPA calling for a rally for a civilian government following El-Obeid deaths*
 
 On 30 July 2019, from the afternoon and throughout the night, numerous rallies were held in more than 20 cities across Sudan, including the capital city of Khartoum. Hundreds of youths and schoolchildren in uniforms [participated](https://www.nytimes.com/2019/07/30/world/africa/sudan-protest-killing.html) in angry protests to denounce the bloody crackdown in El-Obeid. Waving Sudanese flags, protesters [rushed](https://www.aljazeera.com/news/2019/08/sudan-protesters-condemn-killings-transition-talks-190801151729399.html) to the streets with some chanting “killing a student is like killing a nation" and "the people want to fight for the rights of martyrs".  Some protesters placed roadblocks and set fire to tires to express their anger, "we will protest until we obtain justice or we bring down the regime”, said a protester who took part in a gathering in Khartoum.
@@ -189,7 +188,6 @@ A different [video](https://drive.google.com/file/d/1DwCgA_U34-XA8AnPoxldL3Q47Bp
 ![](/assets/investigations/Obeid-image13.jpg)
 
 ![](/assets/investigations/Obeid-image14.jpg)
-
 *Images from a live video stream*
 
 The student protesters are now advancing towards the teal building as seen in the same live video above.
@@ -199,7 +197,6 @@ Further progress of the march is captured in another [video](https://drive.googl
 ![](/assets/investigations/Obeid-image16.png)
 
 ![](/assets/investigations/Obeid-image17.png)
-
 *Bank of Khartoum on Google Maps*
 
 Bank of Khartoum, located here: [13.1848269,30.2169491](https://www.google.com/maps/@13.1848269,30.2169491,111m/data%3D!3m1!1e3) and marked in red, can be seen throughout the video with a 24-hour ATM located right in front of it.
@@ -207,19 +204,16 @@ Bank of Khartoum, located here: [13.1848269,30.2169491](https://www.google.com/m
 ![](/assets/investigations/Obeid-image18.png)
 
 ![](/assets/investigations/Obeid-image19.png)
-
 *Video shot featuring the student protesters in front of the Bank of Khartoum*
 
 Another group of students, mostly schoolgirls can be seen approaching the bank from the narrow street on the left.
 
 ![](/assets/investigations/Obeid-image20.png)
-
 *Video shows a group of schoolgirls arriving at Bank of Khartoum from the alleyway behind the bank*
 
 ![](/assets/investigations/Obeid-image21.png)
 
 ![](/assets/investigations/Obeid-image22.png)
-
 *First image: orange building, second image: a tall building in the distance and a black screen or billboard*
 
 Another angle in the video shows an orange building across the street from the circular bank building, marked on the map in blue. A different scene in the video shows a tall building farther away (marked in orange) as well as a black screen on the street (marked in green).
@@ -229,7 +223,6 @@ As more students approach the bank, gunshots are heard four times from an undisc
 Though the videomaker says on camera that there are snipers atop the Bank of Khartoum’s building, nothing can be seen to corroborate that.
 
 ![](/assets/investigations/Obeid-image3.png)
-
 *The 24-hour ATM machine captured on video*
 
 A scene in this [video](https://www.facebook.com/100006790362218/videos/2395847410651581/) shows students moving away from the teal building and approaching the square at the junction towards the distinctive green-pink building. The video, most likely posted around 11:00 am local time, is consistent with the progress of the march. The green-pink building is located opposite the Sudanese French Bank across the street.
@@ -271,7 +264,6 @@ And according to the shadows, the video was likely taken around 11:30 - 12:50pm.
 ![](/assets/investigations/Obeid-image1.png)
 
 ![](/assets/investigations/Obeid-image35.png)
-
 *By retracing the the shadows on SunCalc, we can confirm the time this video was filmed*
 
 The following [video](https://www.facebook.com/abdalgader.abdall/videos/2922394291318348) shows men in military gear at a close proximity to some unarmed protesters.
@@ -281,19 +273,16 @@ Former Bellingcat’s open source investigator and BBC Africa Eye journalist [Be
 ![](/assets/investigations/Obeid-image11.png)
 
 ![](/assets/investigations/Obeid-image10.png)
-
 *Outlining the tree and building on Google Maps*
 
 The next [video](https://www.facebook.com/watch/?v=2201092316687163) was also verified and geolocated here: [13°11'07.8"N 30°13'00.5"E](https://goo.gl/maps/RH5CHbPQeYvL3MxM8).
 
 ![](/assets/investigations/Obeid-image45.jpg)
-
 *The video as geolocated on the map*
 
 A similar [video](https://www.facebook.com/watch/?v=747464635688798) from a different angle, most likely taken at [11:00 am](https://www.suncalc.org/#/13.1862,30.2166,17/2019.07.29/11:00/1/1) shows security forces using machine guns.
 
 ![](/assets/investigations/Obeid-image24.jpg)
-
 *Marks as seen on the map*
 
 ### Death and injuries
@@ -303,7 +292,6 @@ Though it is not captured in footage, injuries and deaths from gunshot wounds r
 #### Crowds at El-Obeid Teaching Hospital
 
 ![](/assets/investigations/Obeid-image23.jpg)
-
 *The crowds at El-Obeid Teaching Hospital (مستشفى الابيض التعليمي‎), located around [13°11'6.42"N, 30°13'19.94"E](https://www.google.com/maps/place/13%25C2%25B011'06.4%2522N%2B30%25C2%25B013'19.9%2522E/@13.1851203,30.2219263,96m/data%3D!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d13.1851167!4d30.2222056&).*
 
 Based on the position of the sun, the video was filmed live with a timestamp of 12:16 pm; the shadows in the video are relatively short and are to the back right when facing north around 12:00 - 12:30 pm.
