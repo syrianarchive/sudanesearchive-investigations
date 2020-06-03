@@ -14,7 +14,7 @@ image: /assets/investigations/omdurman/image19.png
 
 This is an investigation produced by the Sudanese Archive in collaboration with the Berkeley Human Rights Investigation Lab. It uses open-source tools and techniques to verify evidence gathered from videos, images, and/or reports published online. The focus of this report is about violence against protesters in Khartoum’s twin city of Omdurman on June 30, 2019.
 
-<iframe width="760" height="515" src="https://www.youtube.com/embed/hjqFEMcidRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="515" src="https://www.youtube.com/embed/hjqFEMcidRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Introduction
 

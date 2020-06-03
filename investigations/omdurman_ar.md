@@ -14,7 +14,7 @@ image: /assets/investigations/omdurman/image19.png
 
 صدر هذا التحقيق عن الأرشيف السوداني بالتعاون مع مختبر بيركلي لحقوق الإنسان. يستخدم التحقيق أدوات وتقنيات مفتوحة المصدر للتحقق من الأدلة التي تم جمعها من مقاطع فيديو، صور و/ أو التقارير المنشورة على الإنترنت. يركز هذا التقرير على العنف ضد المتظاهرين في مدينة أم درمان، المدينة التوأم للخرطوم في 30 يونيو 2019.
 
-<iframe width="760" height="515" src="https://www.youtube.com/embed/hjqFEMcidRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="515" src="https://www.youtube.com/embed/hjqFEMcidRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## المقدمة
