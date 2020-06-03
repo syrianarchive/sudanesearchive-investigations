@@ -36,9 +36,9 @@ The Sudanese Archive obtained a copy of a document that was sent to embassies in
 
 *The document sent out to embassies and foreign missions by Sudan’s ministry of foreign affairs, which was obtained by the Sudanese Archive*
 
-![](/assets/investigations/june3-overview-image3.png)
+![](/assets/investigations/june3-overview-image29.png)
 
-*An illustration of where protesters were and how security forces may have targeted certain sites*
+*An illustration of some key verified locations of security forces and violent incidents*
 
 ### Visual evidence
 
