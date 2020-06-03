@@ -16,7 +16,11 @@ image: /assets/investigations/Obeid-image62.png
 
 هذا تحقيق من إنتاج الأرشيف السوداني بالشراكة مع مختبر تحقيقات مركز حقوق الإنسان في جامعة كاليفورنيا في بيركلي. لقد استخدمنا أدوات وتقنيات مفتوحة المصدر للتحقق من الأدلة التي تم جمعها، بما في ذلك لقطات الفيديو والتقارير المنشورة والشهادات. يبحث هذا التحقيق كيف تعرض المدنيون والطلاب الذين يحتجون على الحكم العسكري ويدعون إلى الانتقال إلى الحكم المدني لهجوم عنيف من قبل أفراد قوات الأمن.
 
+<<<<<<< HEAD
 <iframe width="760" height="515" src="https://www.youtube.com/embed/gVYOhGWAtvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+=======
+<iframe width="100%" height="515" src="https://www.youtube.com/embed/qVYOhGWAtvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+>>>>>>> drafts
 
 في 29 يوليو 2019، نظم طلاب المدارس الثانوية في مدينة الأبيض، عاصمة شمال كردفان، احتجاجاً على نقص الخدمات الحيوية والظروف المتهدمة في المدينة. وخرج الطلاب من عدة مؤسسات، وساروا في منطقة السوق الرئيسية احتجاجا على نقص المياه والكهرباء والنقل العام. وفي هتافاتهم طوال المسيرة، تقدم المتظاهرون أيضاً بمطلبين: الانتقال السريع للسلطة إلى الحكم المدني، والعدالة للمتظاهرين المؤيدين للديمقراطية الذين قُتلوا خارج قاعدة الجيش في الخرطوم في [3 يونيو](https://hrw.org/report/2019/11/17/they-were-shouting-kill-them/sudans-violent-crackdown-protesters-khartoum&sa=D&ust=1588240484472000) 2019.
 

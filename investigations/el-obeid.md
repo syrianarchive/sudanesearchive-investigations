@@ -16,7 +16,11 @@ image: /assets/investigations/Obeid-image62.png
 
 This is an investigation produced by the Sudanese Archive in partnership with UC Berkeley’s Human Rights Center Investigation Lab. We’ve employed open-source tools and techniques to verify gathered evidence, including video footage, published reports and testimonies. This investigation examines how  civilians and students protesting  military rule and calling for a transition to a civilian one were violently attacked by members of the security forces.
 
+<<<<<<< HEAD
 <iframe width="760" height="515" src="https://www.youtube.com/embed/qgl11Zz4_S0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+=======
+<iframe width="100%" height="515" src="https://www.youtube.com/embed/qgl11Zz4_S0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+>>>>>>> drafts
 
 On 29 July 2019, secondary school students in the city of El-Obeid, the capital of North Kordofan, staged a protest over a lack of vital services and the rundown conditions in the city. The students came out from several institutions, marching through the main market area protesting against the lack of water, electricity and public transport. In their chanting throughout the rally, the protesters also made two demands: a speedy transition of power to civilian rule, and justice for the pro-democracy protesters killed outside the army base in Khartoum on [3 June 2019](https://www.hrw.org/report/2019/11/17/they-were-shouting-kill-them/sudans-violent-crackdown-protesters-khartoum).
 
