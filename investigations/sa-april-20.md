@@ -1,9 +1,9 @@
-﻿---
-layout: contentwithsiblings.html
+---
+layout: investigation.html
 title: "Removals of Sudanese human rights content: April 2020"
 date: 2020-05-11
 desc: "Amount of content preserved, made unavailable and restored"
-image: /assets/takedowns.jpg
+image: /assets/removals-youtube-image1.png
 ---
 
 To date, Sudanese Archive has preserved and processed 19,366 videos from YouTube. Many of these have been [made unavailable](https://sudanesearchive.org/en/tech-advocacy) for a variety of reasons and 6,322 videos remain unavailable as of April 2020. Sudanese Archive has also preserved 103,597 Tweets, of which 6,063 have been made unavailable.
