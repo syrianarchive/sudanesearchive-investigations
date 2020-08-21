@@ -4,7 +4,7 @@ title: "استهداف المرافق الطبية في الخرطوم في 3 ي
 desc: "بالأدلة القوات الأمنية تغلق طرق الوصول إلى الخدمات الصحية وتعتدي على الأطباء"
 
 date: 2020-08-17
-image: /assets/investigations/omdurman/image19.png
+image: /assets/investigations/june3-medical-image11.jpg
 
 ---
 
