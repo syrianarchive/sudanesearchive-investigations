@@ -34,7 +34,7 @@ image: /assets/investigations/fataburno/image1.png
 
 ![](/assets/investigations/fataburno/image4.png)
 
-*الموقع المحتمل للمباني والراديو أو برج الكهرباء الذي يظهر في الفيديو ، كما هو محدد في صور القمر الصناعي لبرنامج *Google Earth
+*الموقع المحتمل للمباني والراديو أو برج الكهرباء الذي يظهر في الفيديو ، كما هو محدد في صور القمر الصناعي لبرنامج Google Earth*
 
 ### تأثير مدني
 

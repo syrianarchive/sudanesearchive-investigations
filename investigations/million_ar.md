@@ -1,7 +1,7 @@
 ---
 layout: investigation.html
 title: حادث عنيف في مدينة القضارف 30 يونيو 2019
-desc: "قُتل عدة خلال الهجوم"
+desc: "أدلة على إصابة المتظاهرين واستهدافهم أثناء تواجدهم في المستشفى"
 date: 2021-01-29
 image: /assets/investigations/million/image9.png
 ---

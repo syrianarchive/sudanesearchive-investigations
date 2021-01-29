@@ -12,7 +12,7 @@ In July 2020, there were reports from multiple news outlets and international ag
 
 ### The evidence
 
-The Sudanese Archive analysed a video that was likely shot on July 13, showing what appears to be dead bodies, strewn on the ground, the sound of shooting, and people screaming. [The video](https://www.facebook.com/shahinaz.jamal/videos/3123265044417588/?_rdc=1&_rdr), which contains graphic content, was published on July 13, 2020 with a description saying it shows the consequences of the attack. 
+The Sudanese Archive analysed a video that was likely shot on July 13, showing what appears to be dead bodies, strewn on the ground, the sound of shooting, and people screaming. [The video](https://www.facebook.com/shahinaz.jamal/videos/3123265044417588/?_rdc=1&_rdr), which contains graphic content, was published on July 13, 2020 with a description saying it shows the consequences of the attack.
 
 The video begins showing a group of mostly women and children clustered together, apparently taking shelter. The women are screaming and shouting, and children cry. The women are sheltering under a roof between two yellow-walled buildings with green doors and support beams. The sun is high in the sky, casting only short shadows beside the building. For the first 5 minutes of the video, the woman talk among each other while the videographer walks from side to side, offering glimpses of the surrounding area, including knocked over chairs and some buildings and a radio or cell tower in the distance. At 5 minutes into the 12-minute video, a few of the women venture out, one wielding a stick, but quickly retreat as sounds of weaponry can be heard and smoke is seen in the distance.
 
@@ -20,21 +20,21 @@ The video appears to have been shot within Fataburno, around the coordinates: 14
 
 ![](/assets/investigations/fataburno/image1.png)
 
-Likely location of the video based on the matching of buildings and a radio or electricity tower to satellite imagery. Source: Google Maps
+*Likely location of the video based on the matching of buildings and a radio or electricity tower to satellite imagery. Source: Google Maps*
 
-As the video goes on, the videographer and others move out of the building toward the east, where other people can be seen. Two people are shown carrying a limp man in a white shirt and brown trousers, and laying him on the ground. He appears to have been killed, and has signs of injury. The video then skips slightly, and shows another victim: a man in a black shirt, who appears to have been young and is clearly dead, laying on the ground, injuries apparent. As the people are crowded around the two bodies, they begin to run and sounds of gunfire can be heard. 
+As the video goes on, the videographer and others move out of the building toward the east, where other people can be seen. Two people are shown carrying a limp man in a white shirt and brown trousers, and laying him on the ground. He appears to have been killed, and has signs of injury. The video then skips slightly, and shows another victim: a man in a black shirt, who appears to have been young and is clearly dead, laying on the ground, injuries apparent. As the people are crowded around the two bodies, they begin to run and sounds of gunfire can be heard.
 
 ![](/assets/investigations/fataburno/image3.png)
 
-An image of a radio or electricity tower that can be used to help locate the site of the video.
+*An image of a radio or electricity tower that can be used to help locate the site of the video.*
 
 ![](/assets/investigations/fataburno/image2.png)
 
-Several buildings visible in the video near the radio or electricity tower that were matched to satellite images of Fataburno.
+*Several buildings visible in the video near the radio or electricity tower that were matched to satellite images of Fataburno.*
 
 ![](/assets/investigations/fataburno/image4.png)
 
-Likely location of the buildings and radio or electricity tower seen in the video, as identified on Google Earth satellite imagery
+*Likely location of the buildings and radio or electricity tower seen in the video, as identified on Google Earth satellite imagery*
 
 ### Civilian impact
 
