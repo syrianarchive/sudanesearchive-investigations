@@ -23,6 +23,7 @@ While protesters went out opposing the brutal dispersal of June 3rd sit-ins, the
 Later in the day, CCSD announced that TMC militias, referring to RSF, raided Al-Qadarif Hospital firing live ammunition and causing casualties.
 
 ![](/assets/investigations/million/image6.png)
+
 *CCSD’s tweet on Al-Qadarif Hospital attack*
 
 CCSD also shared figures of the injured in Al-Qadarif city: 40 injured, most of whom sustained bullet wounds or were hit with a teargas canister.
@@ -37,11 +38,13 @@ In the video, we can see a few landmarks that are also identifiable on Google Ma
 
 ![](/assets/investigations/million/image5.png)
 ![](/assets/investigations/million/image10.png)
+
 *Landmarks from a still of the video, as seen on Google maps*
 
 In one frame - albeit somewhat blurry - is sign that reads “Al-Qadarif Teaching Hospital” in Arabic. The hospital is located across from the identified coordinates where the video appears to have been taken.
 
 ![](/assets/investigations/million/image7.png)
+
 *“Al-Qadarif Teaching Hospital” as read on the sign*
 
 As well, the weather that day matches what’s seen in the video, according to an analysis conducted with SunCalc. This analysis also indicated that the video was likely recorded between 1 and 2 p.m.; a timeline that would indicate the protesters at the scene just before reports that security forces raided Al-Qadarif Hospital. CCSD announced the raid later in the day.
@@ -53,6 +56,7 @@ The videographer, then, says that security forces are firing live ammunition and
 The footage bears some similarity to the first video as we can see a multi-layered building and the chequered tank from the first video. We compared other landmarks to Google Maps and found for example the blue box and a two-sheet, green building on the map. That led us to these coordinates: 14.039456, 35.388220, which places security forces on Al-Qadarif Hospital grounds. This corroborates CCSD allegations that
 
 ![](/assets/investigations/million/image1.png)
+
 *Landmarks as found on the map*
 
 Though the shadows we can see in the video are not 100% clear, the video was likely taken around 2:30 p.m.
@@ -63,14 +67,17 @@ These three verified videos appear to be filmed in or around Al-Qadarif Hospital
 
 ![](/assets/investigations/million/image8.png)
 ![](/assets/investigations/million/image9.png)
+
 *The metal green structure to the videographer’s left. Part of a yellow sign can be seen*
 
 A building named Zidan Commercial Business on Google maps matches the green structure seen in the video. The video was likely taken around 1:35 p.m., which would align with the timeline of the other two videos, although for this video the shadow analysis has a lower degree of confidence.
 
 ![](/assets/investigations/million/image4.png)
+
 *In Arabic, the business reads “Zidan commercial business”*
 
 ![](/assets/investigations/million/image2.png)
+
 *The sheet structure as seen in the video and we can see a small part of a yellow sign that we can see in one of the video frames*
 
 None of the videos show a perpetrator explicitly firing a weapon, although the third video shows an injured protester being assisted.
